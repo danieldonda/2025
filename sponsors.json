@@ -1,0 +1,59 @@
+[
+    {
+      "id": "f85e0a0e-9f65-4b94-a690-4e98b7775c03",
+      "name": "Microsoft",
+      "logo": "https://logo.clearbit.com/microsoft.com",
+      "tier": "platinum",
+      "website": "https://microsoft.com"
+    },
+    {
+      "id": "8e8846a4-9d91-4b9f-9bb1-96edaf9b1829",
+      "name": "Azure",
+      "logo": "https://swimburger.net/media/ppnn3pcl/azure.png",
+      "tier": "platinum",
+      "website": "https://azure.microsoft.com"
+    },
+    {
+      "id": "2ff5ae69-5bc3-4e0d-89b2-e882937a5c20",
+      "name": "GitHub",
+      "logo": "https://logo.clearbit.com/github.com",
+      "tier": "gold",
+      "website": "https://github.com"
+    },
+    {
+      "id": "9a3982e8-5e6e-4db9-9c03-445d4c9e8262",
+      "name": "Stack Overflow",
+      "logo": "https://logo.clearbit.com/stackoverflow.com",
+      "tier": "gold",
+      "website": "https://stackoverflow.com"
+    },
+    {
+      "id": "37aee174-fbe9-46e5-8c15-5cb063650a9b",
+      "name": "Red Hat",
+      "logo": "https://logo.clearbit.com/redhat.com",
+      "tier": "silver",
+      "website": "https://redhat.com"
+    },
+    {
+      "id": "4dc27b42-5e19-487f-a967-7a6f44eb4e88",
+      "name": "Docker",
+      "logo": "https://logo.clearbit.com/docker.com",
+      "tier": "silver",
+      "website": "https://docker.com"
+    },
+    {
+      "id": "312c368b-7061-44d9-8b4c-1e872dbb93cf",
+      "name": "Visual Studio Code",
+      "logo": "https://code.visualstudio.com/assets/images/code-stable.png",
+      "tier": "gold",
+      "website": "https://code.visualstudio.com"
+    },
+    {
+      "id": "e0dd5666-8374-4f6b-a8b2-d527d5f90dbb",
+      "name": "JetBrains",
+      "logo": "https://logo.clearbit.com/jetbrains.com",
+      "tier": "silver",
+      "website": "https://jetbrains.com"
+    }
+  ]
+  
