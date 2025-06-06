@@ -1,0 +1,87 @@
+[
+    {
+      "id": "9f4e7e2b-8136-4a13-9bb0-2f6c1be8a7df",
+      "name": "Ana Silva",
+      "title": "Principal Cloud Architect",
+      "company": "Microsoft Brasil",
+      "image": "https://images.pexels.com/photos/3791664/pexels-photo-3791664.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Especialista em Azure com mais de 10 anos de experiência em arquiteturas de nuvem e transformação digital.",
+      "expertise": ["Azure", "Cloud Architecture", "DevOps"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "2a97d7a5-13be-4e44-bc57-fc42053c7097",
+      "name": "Carlos Rodrigues",
+      "title": "Senior Developer Advocate",
+      "company": "Microsoft",
+      "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Evangelista de tecnologia focado em .NET, AI e desenvolvimento moderno. MVP há 8 anos consecutivos.",
+      "expertise": [".NET", "AI/ML", "Power Platform"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "ac287d90-df70-4d3e-9f96-4717ea88835d",
+      "name": "Marina Costa",
+      "title": "Data & AI Specialist",
+      "company": "Thoughtworks",
+      "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Cientista de dados com foco em IA e Machine Learning, especialista em Azure Cognitive Services.",
+      "expertise": ["Data Science", "Azure AI", "Power BI"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "8de76c30-5df1-49ad-9227-5688db1913d6",
+      "name": "Roberto Ferreira",
+      "title": "Security Architect",
+      "company": "Accenture",
+      "image": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Especialista em segurança cibernética e compliance, com foco em soluções Microsoft Security.",
+      "expertise": ["Security", "Compliance", "Identity"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "77be7a58-0309-4e62-b431-e9e0f82b2bc6",
+      "name": "Julia Santos",
+      "title": "Modern Work Specialist",
+      "company": "Microsoft",
+      "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Especialista em produtividade e colaboração, focada em Microsoft 365 e Teams development.",
+      "expertise": ["Microsoft 365", "Teams", "SharePoint"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "ce6b3c4c-bb19-43fa-844a-9f29f4a011e5",
+      "name": "Pedro Oliveira",
+      "title": "DevOps Engineer",
+      "company": "Red Hat",
+      "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "bio": "Engenheiro DevOps com expertise em Azure DevOps, Kubernetes e automação de processos.",
+      "expertise": ["DevOps", "Kubernetes", "Automation"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "github": "#"
+      }
+    }
+  ]
+  
