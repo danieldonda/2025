@@ -1,87 +1,1178 @@
 [
-    {
-      "id": "9f4e7e2b-8136-4a13-9bb0-2f6c1be8a7df",
-      "name": "Ana Silva",
-      "title": "Principal Cloud Architect",
-      "company": "Microsoft Brasil",
-      "image": "https://images.pexels.com/photos/3791664/pexels-photo-3791664.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Especialista em Azure com mais de 10 anos de experiência em arquiteturas de nuvem e transformação digital.",
-      "expertise": ["Azure", "Cloud Architecture", "DevOps"],
-      "social": {
-        "linkedin": "#",
-        "twitter": "#",
-        "github": "#"
-      }
-    },
-    {
-      "id": "2a97d7a5-13be-4e44-bc57-fc42053c7097",
-      "name": "Carlos Rodrigues",
-      "title": "Senior Developer Advocate",
-      "company": "Microsoft",
-      "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Evangelista de tecnologia focado em .NET, AI e desenvolvimento moderno. MVP há 8 anos consecutivos.",
-      "expertise": [".NET", "AI/ML", "Power Platform"],
-      "social": {
-        "linkedin": "#",
-        "twitter": "#",
-        "github": "#"
-      }
-    },
-    {
-      "id": "ac287d90-df70-4d3e-9f96-4717ea88835d",
-      "name": "Marina Costa",
-      "title": "Data & AI Specialist",
-      "company": "Thoughtworks",
-      "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Cientista de dados com foco em IA e Machine Learning, especialista em Azure Cognitive Services.",
-      "expertise": ["Data Science", "Azure AI", "Power BI"],
-      "social": {
-        "linkedin": "#",
-        "twitter": "#",
-        "github": "#"
-      }
-    },
-    {
-      "id": "8de76c30-5df1-49ad-9227-5688db1913d6",
-      "name": "Roberto Ferreira",
-      "title": "Security Architect",
-      "company": "Accenture",
-      "image": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Especialista em segurança cibernética e compliance, com foco em soluções Microsoft Security.",
-      "expertise": ["Security", "Compliance", "Identity"],
-      "social": {
-        "linkedin": "#",
-        "twitter": "#",
-        "github": "#"
-      }
-    },
-    {
-      "id": "77be7a58-0309-4e62-b431-e9e0f82b2bc6",
-      "name": "Julia Santos",
-      "title": "Modern Work Specialist",
-      "company": "Microsoft",
-      "image": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Especialista em produtividade e colaboração, focada em Microsoft 365 e Teams development.",
-      "expertise": ["Microsoft 365", "Teams", "SharePoint"],
-      "social": {
-        "linkedin": "#",
-        "twitter": "#",
-        "github": "#"
-      }
-    },
-    {
-      "id": "ce6b3c4c-bb19-43fa-844a-9f29f4a011e5",
-      "name": "Pedro Oliveira",
-      "title": "DevOps Engineer",
-      "company": "Red Hat",
-      "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=400",
-      "bio": "Engenheiro DevOps com expertise em Azure DevOps, Kubernetes e automação de processos.",
-      "expertise": ["DevOps", "Kubernetes", "Automation"],
-      "social": {
-        "linkedin": "#",
-        "twitter": "#",
-        "github": "#"
-      }
+  {
+    "id": "e0d71447-f25d-4b7b-8f98-c6d52f361041",
+    "name": "Rosani Coutinho",
+    "title": "Somos todos agentes de mudança",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791664/pexels-photo-3791664.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Palestra motivacional para engajar pessoas a contribuir para o lado social",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rosanicoutinho/",
+      "twitter": "#",
+      "github": "#"
     }
-  ]
-  
+  },
+  {
+    "id": "6a017ae4-40d7-453a-b863-95268838417c",
+    "name": "Everaldo Oliveira da Silva",
+    "title": "Descomplicando Migrações Cloud",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791665/pexels-photo-3791665.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Entendimento pleno de migrações de ambientes on-premise para cloud, abordando ferramentas e métodos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/evoliv/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "1dc69b67-4e21-4aaa-b156-32980a9081a8",
+    "name": "Alexandre Felipe Malavasi Cardoso",
+    "title": "Arquitetura multi-tenant com .NET do jeito certo",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791666/pexels-photo-3791666.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra irei demonstrar com detalhes implementações avançadas de aplicações multi-tenants com .NET, utilizando recursos existentes no .NET 9, Asp.Net Core e Entity Framework. Além disso, serão demonstradas e discutidas na prática prós e contras de abordagens dessa arquitetura baseado em casos reais de implementação em projetos de larga escala em que trabalhei nos Estados Unidos, Europa e outros locais. Desmontração de boas práticas em casos reais é o foco dessa palestra.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/alexandremalavasi/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "c89777d4-a111-4531-b3b7-75a12af3054d",
+    "name": "William Santos",
+    "title": "Mônadas na Orientação a Objetos com C#",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791667/pexels-photo-3791667.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra vamos entender como mônadas,  estruturas de dadod comuns em linguagens funcionais, podem ser úteis para evitar problemas comuns em OO e até mesmo promover ganhos de desempenho. Exploraremos uma versão em C# das mônadas de F# para conferir as vantagens.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/wsantosdev",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "782f089f-c5a8-4301-b160-7fe8d0fbd1d5",
+    "name": "Danilo Nogueira",
+    "title": "O Poder dos Agentes: Crie Ações com Microsoft 365 Copilot e Copilot Studio",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791668/pexels-photo-3791668.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Descubra como maximizar a eficiência e a produtividade no seu ambiente de trabalho com o Microsoft 365 Copilot e o Copilot Studio. Nesta palestra, vamos explorar o poder dos agentes e como eles podem transformar suas tarefas diárias em ações automatizadas e inteligentes. Aprenda a criar e personalizar agentes que atendam às suas necessidades específicas, otimizando processos e liberando tempo para focar no que realmente importa. Junte-se a nós e veja como a tecnologia pode ser sua aliada na criação de um ambiente de trabalho mais dinâmico e eficiente.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/danilonogueira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "3dc472ee-d43f-4ad6-84b5-0956b2d21771",
+    "name": "Gustavo Bellini Bigardi",
+    "title": "Aplicações web reativas com Blazor e Server Side Events e SignalR",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791669/pexels-photo-3791669.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vamos conhecer melhor as melhorias que estão sendo disponibilizadas no .NET / ASP.NET 10 com tecnologias como Server Side Events e SignalR com Blazor para criação de frontends reativos, onde as informação são disponibilizadas de forma dinâmica e atualizadas para os usuários sem complicações.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/gbbigardi/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "99f04304-53fd-4b27-9bb4-f1f3137de35c",
+    "name": "Alison Pezzott ",
+    "title": "Microsoft Power BI não versus, mas plus Microsoft Fabric",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791670/pexels-photo-3791670.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra serão demonstrados recursos e abordagens nos quais o Microsoft Fabric agrega para o usuário e dev de Power BI. De forma que aquela visão de que um é contrário ao outro seja eliminada e reforçando na verdade a grande evolução que trouxe para o Power BI a chegada do Fabric e todas suas Workloads.\nCom isso, a persona do analista de Power BI também ganha novos super-poderes e começa a mudar e a agregar novos skills em sua caminhada.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/alisonpezzott",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "15cbc33d-0e9e-4482-93e3-f918c7a15660",
+    "name": "Fábio de Carvalho Gatti",
+    "title": "O Poder das Matrizes Dinâmicas no Excel 365",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791671/pexels-photo-3791671.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nessa palestra, você descobrirá como o Excel 365 transformou a manipulação de dados ao introduzir matrizes dinâmicas nativas, simplificando processos antes complexos.\n\nTópicos que serão abordados\n- Evolução do Excel: de fórmulas matriciais tradicionais às matrizes dinâmicas no 365.  \n- Funções-chave do 365: SEQUÊNCIA, CLASSIFICAR, FILTRO, ÚNICO, e outras...  \n- Aplicações práticas: resolução de alguns problemas na prática, inclusive conexão com API e retornos dinâmicos.    \n- Impacto das mudanças: como as novas capacidades do Excel 365 aumentam produtividade, reduzem erros e permitem a criação de automações SEM VBA.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fabiocgatti/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "7e6fc874-07d4-4783-92a6-68c9dd69ba18",
+    "name": "Fábio de Carvalho Gatti",
+    "title": "Power Automate Desktop - Criando Robôs em seu Computador SEM CÓDIGO",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791672/pexels-photo-3791672.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "\"Rotina\"... é o que mais ocupa nosso tempo no trabalho... atividades repetitivas que por vezes você pensa: \"será que não tem como automatizar isso?\"\nUm dos principais bloqueios para responder essa pergunta é: \"não sou programador...\"\nPensando nesta necessidade, a Microsoft criou o Power Automate Desktop. Ferramenta gratuita para usuários que possuem conta corporativa no Microsoft 365, para que possam automatizar qualquer rotina de seu trabalho, utilizando sua própria máquina, sem código, para criação de robôs.\nNessa palestra vamos apresentar essa ferramenta, e demonstrar a simplicidade no uso dela, com alguns cases práticos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fabiocgatti/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "ac3f3ecc-ba89-4885-a073-7ebb5f26cb70",
+    "name": "Fábio de Carvalho Gatti",
+    "title": "Power Query - Como trabalhar de forma profissional com ações em Listas, Recursividade e Loops",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791673/pexels-photo-3791673.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Você já tentou criar loops ou lidar com processos recursivos no Power Query e ficou em dúvida de como fazer isso? Seja por relatórios paginados, funções acumulativas, APIs, ou qualquer outro motivo.\nNessa palestra abordaremos:\n- Introdução às listas no código M;\n- Duas funções poderosas: List.Generate e List.Accumulate;\n- Exemplos práticos e soluções.\n\nVamos explorar desde a teoria até aplicações práticas que vão transformar sua forma de trabalhar com dados tanto no Excel como no Power BI. Se você quer elevar suas habilidades em Power Query, não perca!",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fabiocgatti/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "a6e855de-00e4-49d9-be1b-cd9746b19287",
+    "name": "Rafael Martin Alves Ferreira",
+    "title": "GreenOps: Da Fundação à Inovação Sustentável na Cloud Azure",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791674/pexels-photo-3791674.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Descubra como fundamentos sólidos na nuvem podem impulsionar a inovação tecnológica sustentável no Global Azure com Rafael Martin Alves Ferreira (  / rafaelmaferreira  . Nesta sessão enriquecedora, mergulhamos profundamente nos frameworks essenciais como o Cloud Adoption Framework e o Well-Architected Framework. Rafael também explora como práticas avançadas de DevOps, FinOps e Observabilidade são cruciais para desenvolver soluções escaláveis e responsivas às necessidades comerciais e ambientais.\n\nO que você vai aprender neste vídeo:\n\nFundamentos de Cloud Computing: Uma visão clara dos frameworks de adoção e arquitetura que orientam as melhores práticas na nuvem.\nIntegração de DevOps e FinOps: Como a integração dessas práticas pode otimizar tanto a performance quanto a eficiência de custo em suas operações na nuvem.\nPrincípios de Observabilidade: A importância de implementar observabilidade em suas operações para garantir transparência e eficácia.\nSustentabilidade em Tecnologia: Estratégias para garantir que suas inovações tecnológicas não apenas atendam às exigências do mercado, mas também contribuam para um futuro sustentável.\n\nPara quem é este vídeo:\n\nEsta palestra é ideal para desenvolvedores, arquitetos de sistemas, gestores de TI, e entusiastas da tecnologia que desejam incorporar práticas sustentáveis em suas estratégias de Cloud Computing. Se você está buscando liderar transformações digitais na sua organização e promover um impacto positivo no futuro tecnológico, não pode perder esta sessão.\n\nPrepare-se para ser inspirado e equipado com conhecimentos práticos que transformarão sua abordagem à tecnologia na nuvem e impulsionarão sua carreira e organização para frente.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rafaelmaferreira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "9346cbbb-506f-4701-b679-a950c0abaaa7",
+    "name": "Cristiano Joaquim dos Santos",
+    "title": "Descomplicando Kubernetes On-Premises: Lições Reais de Quem Colocou em Produção",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791675/pexels-photo-3791675.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Colocar um cluster Kubernetes on-premises em produção é uma conquista. Mas preparar esse ambiente para uma eventual migração para a nuvem é um desafio ainda maior.\n\nNesta palestra, compartilho minha experiência prática liderando a implantação de Kubernetes com Rancher, Traefik e MetalLB em um ambiente corporativo, enfrentando restrições de rede, segurança e automação. Mais do que isso: vou mostrar como preparamos essa estrutura para dar um próximo passo — a nuvem — sem comprometer a operação e mantendo a governança.\n\nA ideia é trazer aprendizados reais, erros cometidos e decisões que fizeram a diferença. Para quem está em ambientes locais e precisa começar a planejar a transição, essa palestra é um convite para entender que migrar para a nuvem vai além da infraestrutura: envolve pessoas, processos e muito alinhamento técnico.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/cristiano-joaquim-santos/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "fd3af7f6-d332-4cd5-a556-5d44d05d7a76",
+    "name": "Rodrigo Dornel",
+    "title": "Potencializando seus insights com Copilot e Power BI",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791676/pexels-photo-3791676.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Entenda como potencializar suas análises de dados utilizando a integração entre Power BI e Copilot. Utilize resumos executivos e narrativas geradas pelo Copilot e solicite a criação de novas páginas e painéis baseadas no seus dados. Documente ou aprimore seu modelo com a ajuda do Copilot e utilize o Copilot como seus assistente na criação de cálculos complexos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rodrigodornel/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "74b59b4b-1bc7-4ba6-9830-15efb1b2b864",
+    "name": "Elton Bordim",
+    "title": "Infraestrutura moderna com Azure Local e Azure Arc",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791677/pexels-photo-3791677.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vamos explorar como o Azure Local (anteriormente conhecido como Azure Stack HCI) transforma a forma como empresas modernizam sua infraestrutura local, conectando datacenters tradicionais à nuvem com simplicidade, segurança e governança centralizada.\nDiscutiremos casos reais de uso, a integração nativa com Azure Arc, gestão híbrida unificada, e como o Azure Local permite executar workloads modernos — como máquinas virtuais, containers e serviços do Azure — com alta performance no seu ambiente local ou de borda.\nIdeal para profissionais de infraestrutura, arquitetos de soluções e líderes de TI que buscam inovação sem abrir mão do controle local.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/elton-bordim/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "84c2d9d0-d6ae-414f-a9aa-f7475a1dd2e1",
+    "name": "Cláudio Filipe Lima Rapôso",
+    "title": "Desvendando o Poder das Sagas: Transforme Suas Functions as a Service (FaaS) com Arquitetura de Alto Impacto",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791678/pexels-photo-3791678.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Descubra como a Arquitetura Sagas pode transformar com Azure Durable Functions em soluções de alto impacto nesta palestra reveladora. Entenda os princípios fundamentais das Sagas e sua importância na gestão de transações distribuídas. Veja como aplicar essas técnicas em FaaS para melhorar a resiliência e consistência de suas aplicações. Explore casos de sucesso, participe e revolucione suas FaaS com insights valiosos e estratégias comprovadas.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/cfraposo/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "c38c7a80-0eb5-4d21-a616-4f5243b6382c",
+    "name": "Daniel Donda",
+    "title": "O Jogo dos Hackers - \"Como os Hackers de Elite Atacam e Como Caçá-los\"",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791679/pexels-photo-3791679.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "\"Imagine uma organização acordando com seus servidores criptografados e milhões de dólares em risco. Do outro lado do mundo, um grupo de hackers APT está comemorando. Mas essa não é uma cena de filme. É a realidade.\"\nVamos mergulhar nos grupos avançados e entender como eles realizam ataques avançados que parecem cenas de filme, explorando técnicas furtivas como spear phishing, LOLBins e C2. Aprenda a identificá-los e caçá-los usando o Microsoft Sentinel e outras ferramentas de Threat Hunting. Conheça casos reais e domine estratégias práticas para proteger sua rede. ",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://br.linkedin.com/in/danieldonda",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "73f4dc9c-414f-4328-8b7c-c18838fe9d4b",
+    "name": "Thamirys Gameiro ",
+    "title": "Aplicação Orientada a Eventos com C#",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791680/pexels-photo-3791680.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra serão abordados conceitos de sistemas distribuídos com comunicação através de eventos e mensageria.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/thamirys-gameiro",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "74270351-17dd-4030-81bd-f30b5e2ebf56",
+    "name": "Pedro Ignácio",
+    "title": "Utilizando o Microsoft Defender for Cloud para proteger a sua estratégia multi-cloud",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791681/pexels-photo-3791681.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Com a popularização das estratégias multi-cloud a adoção de uma solução de CNAPP (Cloud Native Application Protection Platform) se tornou essencial para garantir a segurança do ambiente.\nUtilizando o Defender for Cloud podemos expandir a cobertura dos ambientes para provedores além do Azure, garantindo resiliência e alta disponibilidade para os ativos da sua empresa.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/pedroirufo",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "bb2b8e89-1afa-40d3-b646-0162903e1665",
+    "name": "Renato José Ferreira Lira",
+    "title": "Descobrindo o Directlake: A nova era do Power BI",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791682/pexels-photo-3791682.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta apresentação, mergulharemos n o DirectLake. Enquanto o Power BI já é amplamente reconhecido por seus modos tradicionais de armazenamento de dados, como Import e Direct Query (seja com SQL ou Analysis Services), o DirectLake promete revolucionar a forma como interagimos com grandes conjuntos de dados.\n\nVamos explorar o OneLake, uma solução integrada que utiliza arquivos Parquet no formato Delta. Esta inovação não só otimiza o armazenamento e a consulta de dados, mas também combina os benefícios do Direct Query com a potência do DAX, proporcionando uma experiência de análise de dados sem precedentes.\n\nJunte-se a nós para entender como o DirectLake está definindo o futuro da análise de dados com o Power BI.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renatojflira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "760086ba-15a3-46bd-a5aa-20a14d2a3895",
+    "name": "Renato José Ferreira Lira",
+    "title": "Aprofundando funções de tabela no DAX",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791683/pexels-photo-3791683.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Seja direta ou indiretamente, ao escrever uma expressão DAX, você está lidando com o tratamento de funções de tabela.\n\nVamos explorar o conceito de lineage (linhagem de dados) e sua importância em cálculos avançados.\n\nVamos nos aprofundar nas diferenças entre funções de tabela fundamentais, como FILTER, VALUES, ALL, SUMMARIZE, SELECTCOLUMNS, UNION, TREATAS, NATURALINNERJOIN, entre outras.\n\nAo final, você terá uma compreensão completa sobre linhagem de dados e como dominar manipulações complexas de tabelas usando DAX.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renatojflira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "f19dfcbb-9d55-4fc3-bf32-cead581868e5",
+    "name": "Renato José Ferreira Lira",
+    "title": "Ordem de avaliação da CALCULATE",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791684/pexels-photo-3791684.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "CALCULATE é a função DAX mais importante, contudo, seu uso ainda é um desafio até mesmo para os desenvolvedores DAX mais experientes.\n\nNesta sessão, vou mostrar-lhe passos práticos, visuais e menos verbosos que são realizados para avaliar a expressão CALCULATE que possui múltiplos filtros/modificadores.\n\nPara fazer isso, farei uma revisão rápida dos filtros/modificadores de CALCULATE, ordem de avaliação e precedência dentro de CALCULATEs aninhados para que possamos nos aprofundar nos múltiplos filtros/modificadores dentro do mesmo CALCULATE.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renatojflira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "6ea56c68-e2cf-477c-837e-a375bdc16d7e",
+    "name": "Renato José Ferreira Lira",
+    "title": "Microsoft Fabric para usuários de Power BI",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791685/pexels-photo-3791685.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "O Power BI resolve muitos problemas de usuários de negócio, dando ferramentas que permitem a automação e distribuição de produtos com segurança.\n\nPorém, as ferramentas disponíveis se limitam ao Power Query para ETL, que para alguns cenários não é a mais apropriada, assim como possui alguns problemas para a orquestração das soluções.\n\nFalaremos mais sobre as funcionalidades que o Microsoft Fabric entrega que o Power BI sozinho não entrega com foco nesse upgrade de ferramenta, mantendo as mecânicas de trabalhos focadas em usuários de negócio no/low-code",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renatojflira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "10067806-a796-4207-84e6-cfeaddacd2e6",
+    "name": "Renato José Ferreira Lira",
+    "title": "Expanda seu DAX",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791686/pexels-photo-3791686.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "DAX é uma linguagem extremamente poderosa,\nmas compreender o que realmente acontece “por\ntrás dos panos” ainda é um desafio para muitos. A\nfalta de visualização das etapas de cálculo torna\ndifícil entender como o mecanismo de avaliação\nfunciona — e isso leva muitos usuários a\ntropeçarem em armadilhas ocultas, mesmo os\nmais experientes.\n\nNesta palestra, vamos mostrar passo a passo\ncomo o Power BI gera as consultas DAX que\nalimentam os visuais. Esse entendimento é\nessencial para interpretar corretamente os\nnúmeros apresentados nos relatórios.\n\nVamos nos aprofundar como essa consulta DAX é\nprocessada em um dos conceitos mais\nimportantes (e frequentemente ignorados): a\ndiferença entre relacionamentos Regulares e\nLimitados, e como eles afetam diretamente a\nexpansão de tabelas e a propagação de filtros no\nmodelo. Entender isso com clareza é essencial,\nespecialmente ao trabalhar com modelos\ncompostos.\n\nE para fechar, vamos comentar superficialmente\n(assunto ainda em NDA) sobre o futuro do DAX:\nnovas funcionalidades que estão chegando —\ncomo a criação de funções (DAX UDF) que\nretornam tabelas ou valores escalares — e como\nelas vão transformar a forma como escrevemos e reutilizamos código no DAX.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renatojflira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "af6f29bc-900e-4307-94b5-9253ee5337f3",
+    "name": "Renato José Ferreira Lira",
+    "title": "Microsoft Fabric de forma conceitual",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791687/pexels-photo-3791687.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "O Fabric pode ser uma tecnologia confusa para quem está começando. Isso se deve ao fato de não ser uma única tecnologia e sim várias reunidas sob um mesmo ambiente além de se basear em muitos padrões e práticas de arquiteturas de dados que possivelmente são novos para muito iniciante.\n\nNesta apresentação veremos os principais conceitos e pilares da plataforma a separação do armazenamento (Onelake) e processamento (spark, python, Power BI...) e demais itens existentes na plataforma.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renatojflira/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "2a51b25d-189e-4c8e-a796-cf9bf9e68504",
+    "name": "Bruno Leires",
+    "title": "O Futuro da Administração do 365 com Copilot: O Que Esperar?",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791688/pexels-photo-3791688.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, Bruno Leires vai inspirar você com sua trajetória pessoal e profissional, destacando a importância e o impacto da transformação digital na era da inteligência artificial com Copilot. Prepare-se para uma palestra transformadora!",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://br.linkedin.com/in/oconsultorsenior",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "2d513899-d240-4203-a5cc-5803e4b621e9",
+    "name": "Andre Azevedo",
+    "title": "Papel da Gestão de Mudança para adoção de Tecnologias para Gestão de Negócios",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791689/pexels-photo-3791689.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "A tecnologia está disponível a todos tipos de negócios… cada dia mais veloz, adaptável,  prática, a qualquer hora e em qualquer lugar. Mas estamos usando todo esse potencial ? \n\nPrecisamos falar de outras ferramentas tão importantes para adoção de novas formas de fazer os mesmos processos, com a maior aceitação, menor tempo e com maior retorno do investimento. \n\nUma dessas ferramentas é a Gestão de Mudanças (Change Management).\n\nTrabalhando questões do negócio, estrutura organizacional e principalmente pessoas (comportamento e experiências).\n\nEsse rápido workshop tem como objetivo apresentar os principais pilares de uma boa gestão de mudanças na adoção de tecnologias nos negócios.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/andrehazevedo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "4d75d24d-7305-4549-8eac-692b89d64699",
+    "name": "Jefferson Castilho",
+    "title": "Automatizando suas rotinas e backup no Azure com Terraform",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791690/pexels-photo-3791690.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra vou mostrar como podemos automatizar nosso ambiente de backup do Azure Site Recovery com os modulos do Terraform de uma forma de automatizar todas as suas rotinas.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jeffersoncastilho/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "f59cdb67-b41e-4db8-8928-3fb2801cafcc",
+    "name": "Hugo Venturini",
+    "title": "Storytelling com Recursos Nativos de DATAVIZ no Power BI",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791691/pexels-photo-3791691.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Um abordagem séria, com contextualização histórica da importância da visualização de dados - gráficos, tabelas e mapas - para melhor compreensão de análises complexas tanto no âmbito empresarial (Business Intelligence), quanto acadêmico (Analytics). Um resgate da história dos gráficos, sua criação, principais criadores, e da  evolução para tecnologias interativas.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "977e48e7-dba6-47d9-af8e-91ebd782a43c",
+    "name": "Daniel Gomes de Jesus",
+    "title": "Construindo Aplicações Performáticas com RavenDB",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791692/pexels-photo-3791692.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vamos explorar como o RavenDB, banco de dados NoSQL orientado a documentos, pode ser um poderoso aliado na construção de aplicações altamente performáticas e escaláveis. Através de casos práticos e insights técnicos, você entenderá como a arquitetura do RavenDB contribui para respostas rápidas, consultas otimizadas e redução de complexidade no backend.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/djesusnet?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "fc4a8703-b428-485a-a895-46388bd01973",
+    "name": "Hugo Venturini",
+    "title": "O Power BI Desktop como tecnologia autônoma para Análise de Dados",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791693/pexels-photo-3791693.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Uma abordagem específica e particular, que mostra como o Power BI Desktop, sozinho, pode atender plenamente as necessidades de um analista de dados, em qualquer grau de formação, em caráter acadêmico. Esta apresentação visa resgatar os fatos acerca da capacidade dos elementos tecnológicos envolvidos na estrutura do Power BI, como a Power Query Formula Language e as Expressões DAX, além de sua evoluída interface gráfica, em atender as necessidades do analista, mesmo com grandes volumes de dados, em contraposição à abordagem marketeira que inundou o mercado nos últimos anos, negando tais capacidades, para utilizar o Power BI como trampolim para a promoção de outras tecnologias.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "512f1e47-9712-4b77-8bf0-c9ef1deef2b4",
+    "name": "Joel de Oliveira junior",
+    "title": "Tecnologia sem propósito é vazia",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791694/pexels-photo-3791694.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Falo sobre a importância do propósito e da tecnologia para salvarmos pessoas!",
+    "expertise": [],
+    "social": {
+      "linkedin": "linkedin.com/in/joeljunior",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "0331ba8a-956b-4eb7-ac67-b76c0115b7e0",
+    "name": "Juliana Maria Lopes",
+    "title": "Streaming no Microsoft Fabric - A linha de produção do futuro",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791695/pexels-photo-3791695.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, exploro o poder do streaming de dados em tempo real e como ele transforma a maneira como as empresas consomem, processam e reagem aos dados. Com uma linguagem didática e analogias envolventes, a palestra apresenta os fundamentos do streaming, os principais desafios técnicos enfrentados e as arquiteturas Lambda e Kappa. A jornada segue com a introdução ao Microsoft Fabric e seus mecanismos de inteligência em tempo real, como Eventstream, Eventhouse, KQL e dashboards interativos. A palestra inclui ainda uma demonstração prática de como capturar, transformar e analisar dados em tempo real com Fabric, encerrando com dicas de capacitação e certificações para quem deseja dominar essa tecnologia.\nIdeal para profissionais de dados, desenvolvedores, líderes técnicos e entusiastas que buscam entender como o streaming e o Microsoft Fabric podem ser aplicados na prática, otimizando processos e promovendo decisões mais inteligentes e imediatas.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/julianamarialopes/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "eb23af44-0441-44ff-b06b-3c14e5476203",
+    "name": "Raphael Rodrigo Ramos de Santana Santos",
+    "title": "Como o time de Marcom da DSM LATAM gerencia os custos de OPEX através do Power Apps",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791696/pexels-photo-3791696.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Fala aí, camaradas! Tudo joia?\nMinha palestra será uma demonstração de um case de sucesso, mostrando como utilizamos Power Apps e Listas do SharePoint Online para desenvolver uma ferramenta de gestão de custos OPEX do time de Marcom (Marketing e Comunicação) da empresa DSM Nutrição Animal, em nível LATAM.\n\nNossa empresa, Camaro, é Microsoft Solution Partner, e, por meio do nosso time de desenvolvedores especialistas, conseguimos criar uma solução de controle OPEX que digitalizou o processo de gestão de custos do nosso cliente. Isso gerou um impacto positivo, proporcionando maior agilidade e facilitando a colaboração entre os membros do time.\n\nPor meio de um aplicativo Power Apps e Listas do SharePoint, entregamos uma ferramenta inovadora que substituiu o controle anterior feito em Excel. O antigo processo, gerenciado via planilha, era engessado, exigindo muitas trocas de e-mails para que uma única pessoa atualizasse os dados e informasse os gastos ao time.\n\nCom nossa solução, dezenas de usuários agora podem acessar o aplicativo e visualizar, de forma ágil, prática e segura, os gastos OPEX, solicitar compras, acompanhar o status dos pedidos e, assim, otimizar os custos operacionais do time Marcom.\n\n📄 Link do case em PDF: https://drive.google.com/file/d/1wnaA99ArPn2IC6JsBnxKk8wVSWLiRRNI/view\n\n🎥 Link do vídeo do case: https://youtu.be/li1BXVx7UKk?si=rDfYYygAuu6Crq2r\n\nSeria uma honra palestrar no evento e, por meio desse case, inspirar outras pessoas a digitalizarem seus processos com Power Apps.\nAbração, camaradas! 🚀\n",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/raphael-camaro-powerplatform",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "a701d912-90ef-4bc1-bf5c-40c759b399a2",
+    "name": "Daniel Petrin",
+    "title": "Boas práticas e performance no Power Apps",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791697/pexels-photo-3791697.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vou apresentar boas práticas essenciais para quem já desenvolve no Power Apps e quer dar um próximo passo na qualidade dos seus aplicativos. Também abordarei pontos que impactam diretamente a performance, como o uso estratégico de coleções, com foco na otimização de chamadas ao SharePoint.\nO objetivo é entregar um conteúdo prático, aplicável no dia a dia, e que ajude os participantes a criar apps mais rápidos, organizados e sustentáveis, mesmo em ambientes corporativos com múltiplos usuários e fontes de dados.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/danielpetrinbertini/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "a066f0e4-6c42-4cd7-82bb-3a2532447220",
+    "name": "Eduardo Pires",
+    "title": "A ilusão da arquitetura perfeita: Como a vaidade irá arruinar a sua aplicação",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791698/pexels-photo-3791698.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Existe um mal silencioso que consome projetos de software de dentro pra fora: a obsessão pela “arquitetura perfeita”. Nesse talk, vamos expor como a vaidade técnica, o excesso de abstração, o apego a padrões da moda e o desejo de impressionar a comunidade podem matar a simplicidade, a produtividade e, no fim, o seu produto.\n\nEssa é uma conversa sem filtro sobre decisões arquitetônicas que priorizam o ego ao invés do negócio. Vamos falar de overengineering, complexidade desnecessária, cargos inflados e como tudo isso acaba gerando sistemas difíceis de manter, escalar e evoluir.\n\nSe você quer parar de escrever código para impressionar o LinkedIn e começar a entregar software que realmente funciona, essa palestra é pra você.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/pireseduardo/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "4920dddf-f410-48c8-9cbc-b3b4c6f3c6be",
+    "name": "Diego Moreira Matos",
+    "title": "Azure para Recuperação de Desastres: O Caso da Enchente no RS",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791699/pexels-photo-3791699.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Em meio ao desastre climático que atingiu o Rio Grande do Sul, muitas empresas se viram diante de uma crise sem precedentes: perda de acesso físico aos seus datacenters, interrupção de operações críticas e riscos iminentes à continuidade dos negócios. Nesta palestra, você vai conhecer os bastidores técnicos da rápida recuperação de uma operação de grande porte, que utilizou recursos de infraestrutura do Microsoft Azure para restaurar seus sistemas com agilidade, segurança e resiliência. Vamos explorar as decisões técnicas, os aprendizados sobre recuperação de desastres e as boas práticas aplicadas no mundo real, com foco em disponibilidade, automação e resposta em momentos críticos. Uma jornada prática sobre como a nuvem pode ser a linha de vida quando tudo parece ruir.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/digomatos/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "cd83751a-050c-45e7-b77f-5053492b7b16",
+    "name": "Bruno Brito",
+    "title": "Resolvendo Problemas Complexos: Como HLS e DASH Tornaram o Vídeo na Web Possível",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791700/pexels-photo-3791700.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Você já se perguntou como plataformas como YouTube, Netflix e eventos ao vivo conseguem entregar vídeo com qualidade e sem travar? Nesta palestra, vamos explorar a “caixa preta” do streaming e entender como os protocolos HLS (HTTP Live Streaming) e MPEG-DASH viabilizam assistir vídeos em diferentes dispositivos, redes e condições.\n\nVamos entender como o conteúdo é segmentado, como funciona o buffer no player, como os formatos lidam com múltiplas resoluções e por que isso é essencial para escalar o streaming. Também vamos mergulhar nos mecanismos de proteção de conteúdo, incluindo DRM, criptografia e autenticação de acesso, com exemplos práticos usados por plataformas reais.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/brunobritodev/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "75fa9dad-490c-4abe-afcc-ab734bb9f34c",
+    "name": "Carlos André Rodrigues Lauff",
+    "title": "Parceria Microsoft: Descubra os Benefícios e Passos para Alavancar Sua Empresa",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791701/pexels-photo-3791701.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Quer levar sua empresa para o próximo nível com o ecossistema Microsoft?\n\nNesta palestra, você vai descobrir como se tornar um Parceiro Microsoft, os benefícios exclusivos (como créditos em nuvem, selos de competência e acesso a clientes globais) e os passos práticos para entrar no Microsoft Partner Network.\n\nAlém disso, exploraremos estratégias para:\n- Destacar-se no mercado com certificações e competências.\n- Aproveitar recursos como treinamentos, suporte técnico e licenças gratuitas.\n\nSeja você uma startup, consultoria ou empresa estabelecida, esta é sua chance de crescer com a força da Microsoft! Traga suas dúvidas e prepare-se para transformar oportunidades em resultados.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/carloslauff/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "2f676c94-bea5-4980-b3b2-4c3aeb0405d8",
+    "name": "Carlos André Rodrigues Lauff",
+    "title": "Colaboração Inteligente com Microsoft 365: Teams, Viva e Ferramentas para Trabalho em Equipe",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791702/pexels-photo-3791702.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "No mundo híbrido, a colaboração eficiente vai muito além de trocar mensagens e compartilhar arquivos. Como sua equipe pode aproveitar ao máximo o Microsoft 365 para trabalhar de forma integrada, produtiva e com bem-estar?\n\nNesta palestra, você descobrirá:\n\n- Como o Microsoft Teams, SharePoint e Office Online transformam a comunicação em coautoria em tempo real.\n- O poder do Microsoft Viva para engajar equipes, organizar conhecimento e promover equilíbrio entre produtividade e saúde mental.\n- Boas práticas e integrações entre ferramentas (Planner, Whiteboard, Loop) para simplificar projetos complexos.\n- Demonstração prática de um fluxo de trabalho colaborativo, do compartilhamento à execução de tarefas.\n\nPara quem é esta palestra?\n\nLíderes e gestores que querem otimizar a colaboração em equipes híbridas.\nProfissionais de TI e inovação que buscam explorar o potencial do Microsoft 365.\nQualquer pessoa interessada em produtividade e ferramentas digitais.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/carloslauff/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "11105b5e-8f72-41a7-af61-c47551115da5",
+    "name": "Márcio Rogério Nizzola",
+    "title": "Ainda usa controllers, construa API´S somente usando minimal Api´s no .NET",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791703/pexels-photo-3791703.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Aprenda a construir api´s completas, organizadas e com vários recursos como autenticação, rate limit, cache em aplicações .NET com performance superior às controllers e construção bem mais elegante.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nizzola/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "56145740-f4b3-4d43-9579-3b892ababd58",
+    "name": "Marcio Rogério Nizzola",
+    "title": "Construa API´S aplicando os conceitos Twelve Factor App",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791704/pexels-photo-3791704.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Conheça a metodologia Twelve Factor App e construa aplicações .NET aderentes à estes princípios com escalabilidade, segurança e observabilidade, e aprenda a medir a aderência das aplicações pré existentes identificando os pontos de melhoria.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/nizzola/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "d5edb721-fe75-41ff-a32c-a5e3429e51ff",
+    "name": "Marco Aurélio Gardini Lagoa",
+    "title": "Desafios técnicos para colaboração no trabalho híbrido. ",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791705/pexels-photo-3791705.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Apresentar soluções para os desafios do novo cenário  trabalho híbrido e soluções MTRs. ",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/marcolagoa",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "73caafe4-9405-4ee4-84c3-8d1602c3d5e6",
+    "name": "Felipe Pimentel Augusto",
+    "title": "Plugins no Semantic Kernel: A Ponte entre IA e Sistemas Corporativos",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791706/pexels-photo-3791706.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "O uso de IA generativa em aplicações corporativas vai além de prompts criativos — é preciso conectá-la aos dados, serviços e processos reais da organização. Nessa palestra, você vai entender como os plugins do Semantic Kernel transformam modelos de linguagem em agentes úteis, capazes de consultar APIs, acessar bancos de dados, interagir com sistemas legados e muito mais.\n\nVamos explorar na prática como criar, registrar e consumir plugins no Semantic Kernel, com exemplos de uso que incluem automação de processos, geração de relatórios, integração com sistemas internos e workflows cognitivos.\nVocê também verá boas práticas de segurança, controle de contexto e como manter rastreabilidade ao expor funcionalidades críticas da empresa para a IA.\n\nTópicos abordados:\n\t•\tO que são plugins no Semantic Kernel e por que são fundamentais\n\t•\tDiferença entre plugins nativos, semânticos e conectores externos\n\t•\tBoas práticas para criar plugins reutilizáveis e seguros\n\t•\tCasos reais de integração com APIs REST, bancos de dados e sistemas ERP/CRM\n\t•\tDemonstração: IA que consulta dados corporativos e executa ações via plugin",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/felipementel",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "4e28c39e-dbc0-472e-8bc2-b5b588787eb2",
+    "name": "SANDRO JORGE DE OLIVEIRA",
+    "title": "Implementação de Validações e Notifcações em uma solução de dados no Fabric, Great Expectations & Teams",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791707/pexels-photo-3791707.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Apresentação de um modelo de implementação de validações de dados Na ingestão, Transformação e modelo semântico utilizando Great Expectations utilizando o Fabric e Notificando Anomalias via Teams prevendo o quando antes a propagação problemas no pipeline analítico.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sandrojorge/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "f8366358-ed64-470f-a7df-f5907824354e",
+    "name": "Erick Maquiné dos Santos",
+    "title": "Uso da IA - Indo além de uma ferramenta de pesquisa",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791708/pexels-photo-3791708.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Muitos utilizam as  ferramentas de IA como assistente de pesquisa, deixando de explorar seu verdadeiro potencial, como ensinar jovens a criarem aplicativos sem nunca terem aprendido programação, resolvendo problemas complexos nas empresas e aumentando suas produtividade. Com foco no uso de AI Locais para proteção dos dados.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/erick-maquine/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "6928dee1-0236-4c98-aa48-f5b3c3781ba5",
+    "name": "Carlos Citrangulo",
+    "title": "Inteligência Artificial: Revolução Produtiva ou Ameaça Profissional?",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791709/pexels-photo-3791709.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "O objeto principal desta palestra é apresentar e discutir sobre o novo momento frente a inteligência artificial. Como as empresas estão lidando com este novo cenário e quais os riscos e como tirar proveito para quem é profissional de TI, seja de desenvolvimento ou infraestrutura.",
+    "expertise": [],
+    "social": {
+      "linkedin": "http://linkedin.com/in/carloscitrangulo",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "408be10b-8218-4793-bd41-d25421816577",
+    "name": "Emmanuel G. Brandão e Wesley Camargo",
+    "title": "Seu Azure está errado e eu posso provar: Como ganhar escalar na nuvem da maneira correta",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791710/pexels-photo-3791710.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra dinâmica e esclarecedora, vamos explorar os erros mais comuns cometidos ao configurar e escalar soluções na nuvem Azure. Você aprenderá como identificar práticas inadequadas que podem comprometer a performance, a segurança e os custos de sua infraestrutura. Além disso, apresentaremos estratégias comprovadas para otimizar o uso do Azure, garantindo escalabilidade eficiente, alta disponibilidade e alinhamento com as melhores práticas do mercado. Se você deseja transformar sua abordagem na nuvem e maximizar o potencial do Azure, esta palestra é para você!",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/egomesbrandao e https://www.linkedin.com/in/wescamargo",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "bcd8f8e7-fe18-4c64-8630-b6c9af8e57b0",
+    "name": "Leonardo Camargo Rossato ",
+    "title": "Aplicações tecnológicas da Computação Quântica: que futuro esperamos?",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791711/pexels-photo-3791711.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "*Palestra Leonardo Rossato (Presidente ICTQ Fóton+):*\n\nA Computação Quântica tem se consolidado como uma das mais promissoras fronteiras da ciência e da tecnologia contemporâneas. Nesta palestra, será apresentada uma breve retrospectiva histórica, destacando marcos relevantes e exemplos de aplicações tecnológicas ao longo do tempo. Serão discutidas também notícias, artigos científicos, produtos e protótipos (MVPs) que ilustram o avanço das tecnologias quânticas. Por fim, será traçado um panorama do cenário atual, com ênfase na distribuição global de investimentos e na atuação de governos, empresas e startups que protagonizam o desenvolvimento dessa área em constante expansão.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/leonardocamargorossato?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=and",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "878557b1-5ba4-4949-b556-fb9a75b35c97",
+    "name": "Vitor Alves de Andrade",
+    "title": "IA no ambiente empresarial como estratégia de negócio",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791712/pexels-photo-3791712.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Como transformar a expectativa de usar a IA em um ambiente de facilitação, favorecimento e construção de cadeia de dados para gerar resultados em seu ambiente empresarial com ou sem prompts.",
+    "expertise": [],
+    "social": {
+      "linkedin": "http://linkedin.com/in/vitor-alves-de-andrade-72587532",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "c1b7a854-ff22-46f2-b47d-be22f600ee77",
+    "name": "Nathan Pinotti",
+    "title": "Protegendo Contas Privilegiadas com PIM, Access Review e Passkey",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791713/pexels-photo-3791713.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Embora pareça simples, garantir o que credenciais privilegiadas permaneçam seguras antes e durante o acesso ao ambiente pode ser um desafio. Baseado em um caso de sucesso, essa sessão explorará os recursos disponíveis para proteção de Identidade com acessos privilegiados, usando PIM, Access Review e o Passkey.\n\nDo requisitos de negocio, desenho da arquitetura até a aplicação tecnica da solução. Tudo isso de forma objetiva e super pratica.\n\n ",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/nathanpinotti",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "e0827a9d-f3b2-453b-9bf4-8a77827c7ec1",
+    "name": "Nathan Pinotti",
+    "title": "Jornada Zero Trust com Microsoft 365",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791714/pexels-photo-3791714.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Ao se falar de abordagens para segurança, Zero Trust é sempre a primeira opção. Nessa sessão, exploraremos como as soluções do Ecossistema Microsoft 365 apoiam o negocio a seguir as praticas recomendadas na abordagem Zero Trust.\n\nDa Identidade, proteção de devices, informações à proteção de aplicativos, abordaremos de forma pratica os recursos e produtos que serão a base da arquitetura de segurança no seu ambiente Microsoft 365.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/nathanpinotti",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "c1d92ba1-2402-4ef6-8de1-7bbf5f7efcff",
+    "name": "Nathan Pinotti",
+    "title": "Gestão de Identidade com o Entra ID",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791715/pexels-photo-3791715.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Antes Active Directory, hoje o Entra ID. Entenda como gerenciar ou transicionar a gestão de identidade do seu ambiente utilizando soluções Microsoft.\n\nNessa sessão exploraremos as opções para IAM no mundo Microsoft, do velho e bom conhecido ADDS até as opções mais modernas como Entra ID e Domain and Services. Quando, o que e por que utilizar, tudo de forma simples e com muita pratica.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/nathanpinotti",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "317169ed-3854-495f-ba77-88600c97ea83",
+    "name": "Nathan Pinotti",
+    "title": "Explorando o Defender for Identity",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791716/pexels-photo-3791716.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Proteção de identidade, seja local ou em nuvem não e tarefa fácil, mas pode ser facilitada. Descubra como o Microsoft Defender for Identity (MDI) te apoia no monitoramento e proteção de identidade local, em nuvem ou hibrida. Da teoria a pratica com demos simulando ataques e detecções via MDI.",
+    "expertise": [],
+    "social": {
+      "linkedin": "linkedin.com/in/nathanpinotti",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "226e891a-6bed-4df1-81f6-77b74628d9f9",
+    "name": "Igor Humberto Monte Marques de Lima",
+    "title": "Segurança em Camadas no Azure: Do Perímetro à Identidade",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791717/pexels-photo-3791717.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Descubra como aplicar o modelo de segurança em camadas no Azure, cobrindo desde o controle de perímetro com Azure Firewall e Network Security Groups, até a proteção de identidade com o Entra ID e Conditional Access. Descubra práticas recomendadas de Zero Trust e e como integrar o Microsoft Defender for Cloud.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/igorhumberto/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "33cce3a5-56a9-452b-903e-81093fa452a2",
+    "name": "Rodrigo Crespi",
+    "title": "Alta disponibilidade de PostgreSQL no Azure",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791718/pexels-photo-3791718.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Alta disponibilidade é um conceito muito amplo que inclui não somente a criação de mais instâncias dos servidores, mas a continuidade, disponibilidade garantia de todos os processos, para compreender como funciona e projetar as melhores estratégias, venha participar desta palestra. ",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rodrigocrespi",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "414c4a4f-4317-49b1-9fd5-f5e194015a1b",
+    "name": "Felipe Kenji Chikuji",
+    "title": "De Estudante ao Mundo: Minha Jornada como Estudante Embaixador Microsoft e MVP",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791719/pexels-photo-3791719.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Olá, eu sou o Felipe, me formei em Análise e Desenvolvimento de Sistemas na FATEC, entrei no programa Microsoft Learn Student Ambassadors  e, com o tempo, me tornei MVP em Inteligência Artificial.\nEssa jornada me trouxe oportunidades incríveis, mas mais do que isso, me trouxe amizades verdadeiras e uma comunidade global que me ajudou a crescer como pessoa e profissional.\nQuero compartilhar com vocês como tudo isso começou, o que aprendi no caminho, e como você também pode trilhar um caminho parecido — conectando, aprendendo e se desenvolvendo junto com a comunidade Microsoft.\nVou trazer relatos de amigos do México, Colômbia, Indonésia, Tunísia e outros cantos do mundo pra mostrar que, sim, você pode fazer parte disso também.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/felipe-kenji-chikuji/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "59b2eb7a-e334-4105-a8ce-3de5b4950936",
+    "name": "Jorge Maia",
+    "title": "Minha jornada aplicando IA com IoT e Gêmeos Digitais",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791720/pexels-photo-3791720.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta sessão vou apresentar os caminhos e desafios da minha jornada nos últimos anos  aplicando Inteligência Artificial em projetos de IoT e Gêmeos Digitais. ",
+    "expertise": [],
+    "social": {
+      "linkedin": "Https://www.linkedin.com/in/jorgeasmaia",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "59271604-b6aa-48e1-bb9c-cc8df1680f7a",
+    "name": "Francisco José Ferreira",
+    "title": "Migrando sua Infraestrutura para Nuvem - Projeto Real",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791721/pexels-photo-3791721.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Detalhes de uma migração para o Azure em um projeto real, Active Directory, Banco de Dados, VPN, File Server e Backup. (Essa palestra é feita em conjunto com o MVP Maycon Alves).",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/franciscoferreiramvp/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "dec3c12a-d6b4-45f3-9e09-e4e26a4cdc66",
+    "name": "Fábio Cotrim",
+    "title": "Como chegar aos 60 trabalhando em TI",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791722/pexels-photo-3791722.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Uma retrospectiva comentada de todas as ações que fiz para manter-me trabalhando em TI, às vésperas de completar 60 anos. Nesta palestra, pretendo dar dicas do que fazer e, principalmente, do que não fazer para manter-se interessante para os recrutadores.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fcotrim/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "4425e6e0-2bf3-4710-b6b0-cfc17f4ce6e3",
+    "name": "Juliano Custódio",
+    "title": "GreenOps: Reduzindo a pegada de carbono na nuvem",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791723/pexels-photo-3791723.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra iremos entender os principais conceitos de Green Software e como podemos aplicá-los junto com a cultura DevOps para reduzir as emissões de CO2 de nossos softwares. ",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/julianocustodio",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "c88167e4-ce6e-4969-9317-e61167aded10",
+    "name": "Glauter Jannuzzi",
+    "title": "Líder de sua própria trajetória ",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791724/pexels-photo-3791724.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Palestra sobre Liderança, Carreira e Atitude.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/jannuzzi",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "e5ccaee4-8d14-444c-bb87-b85cc04ce4ea",
+    "name": "Renicius Pagotto e Ana Carolina Manzan (Palestra em dupla)",
+    "title": "Containerização no Azure",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791725/pexels-photo-3791725.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Esta palestra aborda a criação, configuração e implantação de aplicações containerizadas no Azure App Service com imagens Docker. Serão exploradas práticas essenciais como criação de imagens, armazenamento no Azure Container Registry e configuração de ambientes personalizados. A integração com fluxos de CI/CD será demonstrada, junto com exemplos práticos para otimizar desempenho, segurança e escalabilidade de aplicações em nuvem.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renicius-pagotto",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "9a53c1a6-1150-4e10-9591-d27f77d4f3a1",
+    "name": "Renicius Pagotto e Ana Carolina Manzan (Palestra em dupla)",
+    "title": "Blue-Green Deployment no App Service",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791726/pexels-photo-3791726.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, aprenderemos sobre estratégias avançadas de deployment utilizando a abordagem Blue-Green no Azure App Service. Exploraremos a configuração eficiente de Deployment Slots para manter ambientes paralelos e demonstraremos como integrar todo o processo em pipelines automatizados via GitHub Actions. Uma visão prática para profissionais que buscam implementar processos de entrega contínua mais robustos e confiáveis na plataforma Azure.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renicius-pagotto",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "3e4a5817-05a1-4142-862c-5f80f88cbf08",
+    "name": "Renicius Pagotto Fostaini",
+    "title": "GitHub Copilot: Seu Assistente no Desenvolvimento",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791727/pexels-photo-3791727.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Descubra como o GitHub Copilot revoluciona o desenvolvimento com sugestões de código contextualizadas por IA enquanto você programa. Conheça casos práticos onde este assistente reduz o tempo de implementação, elimina repetições e amplia sua criatividade técnica.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/renicius-pagotto",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "db60693d-f463-4c0d-9eee-7551c5d84aea",
+    "name": "FABIO MENEZES SANTOS",
+    "title": "Insights dos Dados com IA: Azure SQL Server e Microsoft Copilot Studio",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791728/pexels-photo-3791728.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Conheceremos como criar agente do Copilot utilizando Tópicos, chamadas para ação utilizando e fluxos para potencializar suas análises de dados existentes no Azure SQL Server\n",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/fabioms/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "c01e7d09-4600-4211-8bcc-5e067d3bc54e",
+    "name": "Roberto Fonseca",
+    "title": "Always On: Lições (que a Microsoft não te contou)!",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791729/pexels-photo-3791729.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta sessão, vamos falar sobre as lições práticas aprendidas na implementação e administração de vários Always On Availability Groups e Failover Cluster Instances do Microsoft SQL Server. Desde a navegação pelas complexidades da configuração até a superação dos \"desafios\" mais comuns, mostraremos insights do mundo real e histórias que não são tão bem documentadas. Seja você um administrador experiente ou um iniciante em soluções de alta disponibilidade, esta sessão vai te ajudar a conhecer mais sobre o potencial do recurso Always On do SQL Server.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rffonseca/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "b5d9e2cc-263a-4989-b419-88982f4e9781",
+    "name": "Marco Aurélio Candido da Silva",
+    "title": "Apps interessantes conectados ao Microsoft Teams",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791730/pexels-photo-3791730.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Além da abordagem da estrutura do Microsoft Teams, irei abordar o uso de alguns aplicativos \"escondidos\" e/ou ignorados pelos usuários e preencher o evento com demonstrações práticas de alguns exemplos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/marcoaureliocandido/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "177474ad-2eee-49da-95c8-05e236f72537",
+    "name": "Marco Aurélio Candido da Silva",
+    "title": "Deep in Microsoft 365 Copilot",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791731/pexels-photo-3791731.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Conhecendo todas as nuances do Copilot chat, Microsoft 365 Copilot e Copilot for Finance. Nessa Palestra irei demonstrar as principais diferenças e usabilidades da IA da Microsoft com exemplos práticos e prompts criativos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/marcoaureliocandido/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "6446646f-61ed-494d-a65c-6a78b2eb2a9d",
+    "name": "Daniel Ribeiro",
+    "title": "Azure Arc: Desbloqueando o Poder da Infraestrutura Híbrida e Multicloud",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791732/pexels-photo-3791732.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, exploraremos como o Azure Arc está transformando infraestruturas híbridas e multicloud, destacando inovações e melhores práticas para uma adoção bem-sucedida. Através de casos de sucesso e exemplos práticos, será possível entender os benefícios reais do Azure Arc, além de explorar as últimas tendências e como ele pode ser utilizado para impulsionar a modernização da TI nas empresas.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/xdanielribeiro/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "2fdaae22-f717-40e1-9ff0-cd7c3b1be78d",
+    "name": "Daniel Ribeiro",
+    "title": "Azure VMware Solution: Acelerando a Modernização de Data Centers com Escalabilidade e Agilidade na Nuvem",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791733/pexels-photo-3791733.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vamos explorar como o Azure VMware Solution (AVS) pode acelerar a jornada de modernização do seu data center, oferecendo uma solução robusta e eficiente para migrar, gerenciar e expandir ambientes VMware na nuvem. Através de casos de sucesso e melhores práticas, discutiremos como o AVS permite uma transição mais fluida para a nuvem, aproveitando as capacidades do Azure para aumentar a escalabilidade, segurança e agilidade das operações de TI. ",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/xdanielribeiro/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "a149a6d9-8e55-43b2-b5b9-340a2f6f4a5c",
+    "name": "Daniel Ribeiro",
+    "title": "Azure Local em Ação: A Nuvem Azure na Sua Infraestrutura On-premises",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791734/pexels-photo-3791734.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vamos explorar como o Azure Local (antigo Azure Stack HCI) permite rodar recursos nativos do Azure diretamente em sua infraestrutura on-premises. Descubra como você pode integrar serviços da nuvem Azure, como Azure VMs, Azure Virtual Desktop e Azure Kubernetes Service, diretamente no seu data center, mantendo o controle local sem abrir mão da escalabilidade e eficiência da nuvem. Vamos mostrar como essa solução híbrida moderniza sua arquitetura de TI, permitindo uma experiência consistente e flexível entre o local e a nuvem.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/xdanielribeiro/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "8e294b50-f659-438f-a452-ed45db944d87",
+    "name": "Henver Rodrigo Gomes Soares",
+    "title": "Entra ID e Intune: Gerenciando dispositivos com base no modelo Zero Trust",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791735/pexels-photo-3791735.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, você vai descobrir como o Entra ID e o Intune se tornam pilares na gestão moderna de dispositivos com base no modelo Zero Trust. Abordaremos estratégias práticas de proteção de identidade, conformidade de dispositivos e controle de acesso, mostrando como aplicar segurança robusta sem comprometer a produtividade. Ideal para profissionais de TI que buscam fortalecer seu ambiente com governança e proteção nativas da nuvem Microsoft.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/henversoares",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "06db7a00-2be3-4e80-a8fd-398880c6942c",
+    "name": "Rebecca Paola Cesar Frade",
+    "title": "Threat Hunting baseado na MITRE ATT&CK com KQL no Microsoft Sentinel",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791736/pexels-photo-3791736.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Mostrar como o Microsoft Sentinel permite realizar caçadas proativas a ameaças (Threat Hunting) utilizando queries KQL alinhadas à matriz MITRE ATT&CK — tudo isso com foco em visibilidade, correlação e resposta.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "01510c2d-e980-46e6-b641-3c33476bab59",
+    "name": "Andre Luiz Mattos Oliveira",
+    "title": "Preparando seu Ambiente 365 para Implementacao do COPILOT",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791737/pexels-photo-3791737.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, exploraremos como preparar seu ambiente Microsoft 365 para a implementação do COPILOT, focado em Governança e Segurança . Abordaremos os seguintes tópicos:\n\nIntrodução ao COPILOT: Entenda o que é o COPILOT e como ele pode transformar a produtividade e a colaboração em sua organização.\nRequisitos e Preparativos: Saiba quais são os requisitos técnicos e as melhores práticas para preparar seu ambiente Microsoft 365 para deixar o uso do COPILOT mais seguro dentro da sua organização",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/admandreluiz/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "0dcc6f6b-6933-4bf0-b9bd-c0f5b2764a42",
+    "name": "Andre Luiz Mattos Oliveira",
+    "title": "Aposentando seu WSUS com o Azure ARC",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791738/pexels-photo-3791738.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vamos explorar como migrar de um ambiente WSUS (Windows Server Update Services) para uma solução moderna e eficiente utilizando o Azure ARC. Abordaremos os seguintes tópicos:\n\nIntrodução ao Azure ARC: Conheça o Azure ARC e suas capacidades para gerenciamento de servidores e serviços em ambientes híbridos e multicloud.\nDesafios do WSUS: Entenda os principais desafios e limitações do WSUS na gestão de atualizações e como o Azure ARC pode superá-los.\nPreparação para a Migração: Saiba como preparar seu ambiente atual para a transição, incluindo requisitos e melhores práticas.\nImplementação do Azure ARC: Passo a passo para configurar e integrar o Azure ARC, garantindo uma migração suave e eficiente.\nBenefícios e Casos de Uso: Descubra os benefícios de utilizar o Azure ARC para gerenciamento de atualizações e veja exemplos práticos de sua aplicação.\nDemonstração ao Vivo: Assista a uma demonstração ao vivo da implementação do Azure ARC e aprenda dicas e truques para otimizar seu uso.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/admandreluiz/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "e7b931d3-b3a4-4ca8-ab2c-4df2796e0766",
+    "name": "Erick Wendel",
+    "title": "Criando agentes de IA no navegador usando JavaScript",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791739/pexels-photo-3791739.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Uma das novidades mais legais do momento é a possibilidade de usar APIs nativas de IA em navegadores ou bibliotecas como Transformers.js, que permitem entender as intenções dos usuários, aprimorar a navegação em páginas e até mesmo processar imagens e vídeos sem a necessidade de back-end. Como?\n\nNesta palestra, os participantes conhecerão recursos poderosos para IA na Web e até mesmo saberão quais navegadores, como o Google Chrome, vêm incorporando modelos de IA para criar a próxima geração de aplicativos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/erickwendel/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "1840bd4b-684f-4d00-b0b8-f8bf7d9ca2e6",
+    "name": "Vinicius Apolinario",
+    "title": "AI é só mais uma app - Gerenciando AI apps no Microsoft Azure",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791740/pexels-photo-3791740.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "AI (Artificial Intelligence) é o maior assunto no momento na área de tecnologia. Empresas de todos os setores estão procurando maneiras de inovar com AI. Porém, aplicações que utilizam AI não são diferentes de outras aplicações. Identidade, autenticação, governança, networking, e outros componentes ainda são importantes de serem gerenciados. Nesta sessão você verá como implementar autenticação e autorização, configuração de networking, monitoramento, e governança para aplicações de AI. Você verá que seu conhecimento de operações poderá ser reutilizado para aplicações com AI!",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/vrapolinario/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "bc07a603-7243-4283-8ff9-eeaed8192860",
+    "name": "Leonardo Ramos Russo",
+    "title": "Criando Prototipos com IA Generativa",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791741/pexels-photo-3791741.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Vamos falar de técnicas para acelerar o ciclo de desenvolvimento e validação de ideias com IA generativa",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/leonardorrusso/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "1fd3d90b-f23e-46e9-a28e-b4388aaa4a3d",
+    "name": "Fabio Baldini",
+    "title": "Tomada de Decisão Multicritério no Excel",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791742/pexels-photo-3791742.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Gostaria de demonstrar o poder do Excel aplicada a tomada de decisão multicritério no Excel mostrando a versatilidade e a facilidade de como tomar decisões de maneira rápida e fácil mas com direcionamentos corretos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/baldinifabio/",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "1b243b3d-ad4a-4a7b-ad07-49aabdac3607",
+    "name": "Fabiano Neves Amorim",
+    "title": "The Injection Game: Expondo Vulnerabilidades de SQL Injection com ScriptDom",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791743/pexels-photo-3791743.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "SQL Injection continua sendo uma das ameaças de segurança mais críticas e exploradas em sistemas de banco de dados. Nesta sessão, vamos aprofundar em como você pode usar a biblioteca ScriptDom da Microsoft para analisar códigos T-SQL e identificar módulos vulneráveis a SQL Injection no SQL Server.\n\nMas não para por aí. Vou compartilhar uma história real de como essa abordagem me levou a descobrir vulnerabilidades reais dentro do próprio SQL Server — permitindo escalonamento de privilégios, uso não autorizado de comandos internos de DBCC e acesso a dados sensíveis que deveriam estar restritos.\n\nSeja você um DBA, desenvolvedor ou profissional de segurança, sairá desta sessão com técnicas práticas para reforçar seu ambiente SQL Server, evitar armadilhas comuns e entender por que a codificação segura é mais importante do que nunca.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://br.linkedin.com/in/fabianoamorim",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "b1886b55-001a-4a68-b9a9-36483e6c6243",
+    "name": "Guilherme Maia",
+    "title": "Chega de Sofrer com Kubernetes: Como Escalar Containers com Simplicidade usando o Azure Container Apps",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791744/pexels-photo-3791744.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Nesta palestra, vou revelar casos reais de uso do Azure Container Apps (ACA) e mostrar como escalar aplicações de forma prática com o Azure Container Apps e as melhores práticas para implementação de uma Arquitura de alto nível na nuvem do Azure.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/guilhermemaia",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "b5d440d3-91a1-475e-9ea5-0dea71ddae81",
+    "name": "Glaucio Daniel Souza Santos",
+    "title": "Orquestração de Agentes com MCP e A2A",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791745/pexels-photo-3791745.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Vamos explorar os bastidores da próxima geração de orquestração de agentes autônomos. Vamos mergulhar nos protocolos MCP (Model Context Protocol) e A2A (Agent-to-Agent), que estão redefinindo como agentes colaboram de forma eficiente, segura e escalável. Através de demonstrações práticas e cenários reais, você verá como construir sistemas multiagente que vão além de simples chamadas API — com negociação de tarefas, persistência de contexto e cooperação em ambientes complexos.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/glauciodaniel",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "1a791773-ddb8-4f38-8a68-8f7741deb866",
+    "name": "Leonardo Alves Zanré ",
+    "title": "Como a Power Platform pode mudar seu negócio",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791746/pexels-photo-3791746.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Abordarei o tema sobre a mudança da Microsoft Power Platform transforma a forma como empresas operam, automatizam e tomam decisões. Utilizando ferramentas como Power Apps, Power Automate, Power BI e Power Virtual Agents, é possível criar soluções personalizadas com rapidez, sem depender exclusivamente de desenvolvimento tradicional",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/leonardozanre",
+      "twitter": "#",
+      "github": "#"
+    }
+  },
+  {
+    "id": "ea789f49-5db5-4be1-bb48-eacb288cad05",
+    "name": "Lucas Cariello Massena",
+    "title": "Event Driven da forma correta com Azure, Servicr Bus e Functions",
+    "company": "MVPConf 2025",
+    "image": "https://images.pexels.com/photos/3791747/pexels-photo-3791747.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "Vamos explorar como construir arquiteturas event-driven robustas, escaláveis e alinhadas com as melhores práticas do Azure. Através de cenários reais e experiências práticas, você verá como orquestrar eventos de negócio usando Azure Service Bus como backbone de mensagens, Azure Functions como unidades de processamento desacopladas, e padrões como Command/Event Segregation, retry policies e dead-letter handling para garantir confiabilidade e resiliência.",
+    "expertise": [],
+    "social": {
+      "linkedin": "https://linkedin.com/in/lcmassena",
+      "twitter": "#",
+      "github": "#"
+    }
+  }
+]
