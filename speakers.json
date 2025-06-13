@@ -65,8 +65,6 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/admandreluiz/",
-      "twitter": "",
-      "gitHub": ""
     }
   },
   {
@@ -856,67 +854,76 @@
   {
     "id": "f1b19fc5-71d6-4e93-807a-baa73de036ab",
     "name": "Sandro Jorge de Oliveira",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Data Scientist & Artificial Intelligente",
+    "company": "Prodesp",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/SANDRO JORGE DE OLIVEIRA.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com ampla experiência em TI, atuando como documentador, desenvolvedor .NET, instrutora, coordenador de soluções com SharePoint, gerente de software factory e gerente de projetos em soluções fiscais.",
+    "expertise": [
+      "AI",
+      ".NET",
+      "SharePoint"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/sandrojorge/",
-      "twitter": "",
-      "gitHub": ""
     }
   },
   {
     "id": "912c9112-1361-497a-b02d-00050d5b9afd",
     "name": "Thamirys Gameiro",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Dev .Net Sênior - BTG Pactual | 7x Microsoft MVP | Instrutora .Net - FIAP",
+    "company": "BTG Pactual",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Thamirys Gameiro.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Desenvolvedora com foco em C#, APIs, DDD e arquiteturas modernas (Hexagonal, Limpa). Atua com Azure, AWS, OpenAI e RabbitMQ. Estuda microsserviços e sistemas distribuídos. Fundadora da comunidade DevelopersBR.",
+    "expertise": [
+      ".Net"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/thamirys-gameiro",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/ThamirysGameiro"
     }
   },
   {
     "id": "83f6c9fe-c9e4-4cf5-a748-36727380118e",
     "name": "Vinicius Apolinario",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Principal Cloud Advocate at Microsoft",
+    "company": "Microsoft",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vinicius Apolinario.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional de TI desde os anos 2000, com foco em Infra/Ops e DevOps. Microsoft Certified Trainer desde 2009 e colaborador ativo na comunidade com blogs, eventos e livros. Hoje atua como Sr. Program Manager na equipe de Windows Containers da Microsoft.",
+    "expertise": [
+      "Docker", "Windows", "Linux", "WSL"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/vrapolinario/",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/vrapolinario",
+      "gitHub": "https://github.com/vrapolinario"
     }
   },
   {
     "id": "12502096-89b5-46b8-9d0e-2f364845eb94",
     "name": "Vitor Alves de Andrade",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Diretor Gerals",
+    "company": "Overflow Solutions",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Vitor Alves de Andrade.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Acredita na evolução contínua pessoal e profissional. Com trajetória que vai de áreas jurídicas à liderança como CEO da Overflow Solutions, acumula experiências em TI, projetos e gestão. Focado em compartilhar conhecimento e promover crescimento em equipe.",
+    "expertise": [
+
+    ],
     "social": {
       "linkedin": "http://linkedin.com/in/vitor-alves-de-andrade-72587532",
-      "twitter": "",
-      "gitHub": ""
     }
   },
   {
     "id": "7110a1b8-489c-47c7-8415-ec387173b853",
     "name": "William Santos",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Arquiteto de Software | Microsoft MVP | Evangelista de DDD",
+    "company": "Nubank",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/William Santos.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Arquiteto de software com 20+ anos de experiência em sistemas críticos e distribuídos. Atua em automação, integração e economia de custos. Compartilha conhecimento em blog e eventos, com foco em conteúdo técnico em português.",
+    "expertise": [
+      "Arquiteto de Software",
+      ".Net",
+      "DDD"
+    ],
     "social": {
       "linkedin": "https://linkedin.com/in/wsantosdev",
       "twitter": "",
@@ -926,25 +933,30 @@
   {
     "id": "fca35eaf-0809-4684-9c41-25fba8f4de80",
     "name": "Wesley Camargo",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "3x Microsoft MVP | Cloud Solutions Architect | Cloud/DevOps Technical Lead",
+    "company": "Tata Consultancy Services",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Wesley Camargo.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Arquiteto de Soluções Cloud especializado em Azure Landing Zones, com experiência em redes, segurança, governança e identidade, seguindo o Cloud Adoption Framework da Microsoft. MVP por 3 anos, com foco em automação, DevOps e projetos globais.",
+    "expertise": [
+      "Azure",
+      "Devops"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/wescamargo",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/wesleycamargo"
     }
   },
   {
     "id": "bb950666-e177-453a-b771-8d8a3d7e07b3",
     "name": "Angelo Belchior",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "10x Microsoft MVP Dev Tech | Staff Software Engineer na PicPay | .NET Enthusiast",
+    "company": "PicPay",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/angelo_belchior.png",
-    "bio": "",
-    "expertise": [],
+    "bio": "20 anos de experiência em TI. Já atuou em projetos Desktop, Web, Mobile com Xamarin, Cognitive Services e Bots. Líder das comunidades técnicas Monkey Nights e Developers BR.  É Microsoft MVP em Developer Technologies e atua como Staff Engineer",
+    "expertise": [
+      ".Net",
+      "Azure"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/angelobelchior/",
       "twitter": "",
@@ -967,8 +979,9 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/renatogroffe/",
-      "twitter": "",
-      "gitHub": "https://github.com/renatogroffe"
+      "twitter": "https://x.com/RenatoGroff",
+      "gitHub": "https://github.com/renatogroffe",
+      "youtube": "https://www.youtube.com/@CanalDotNET"
     }
   }
 ]
