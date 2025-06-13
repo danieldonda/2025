@@ -148,29 +148,36 @@
   {
     "id": "3d488ab0-4b47-4e65-871b-b53221e8c600",
     "name": "Cristiano Joaquim dos Santos",
-    "title": "Speaker",
-    "company": "",
+    "title": "Arquiteto de Software Sênior",
+    "company": "Unimed Fesp",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Cristiano Joaquim dos Santos.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Arquiteto de Software Sênior com 25+ anos em .NET, C#, Azure e microsserviços. Liderança técnica, inovação e experiência em transformação digital, especialmente na saúde. Ex-Microsoft e destaque em arquitetura moderna e DevOps.",
+    "expertise": [
+      ".Net",
+      "Microsoft Azure",
+      "Azure DevOps",
+      "Docker"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/cristiano-joaquim-santos/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/cristianojsantos"
     }
   },
   {
     "id": "2c84ee8a-6ba6-4a33-9093-56b5657add03",
     "name": "Daniel Donda",
-    "title": "Speaker",
-    "company": "",
+    "title": "Cybersecurity Specialist, Writer, Professor, Speaker, Researcher, and Founder of Hackers Hive",
+    "company": "Hackers Hive",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Donda.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com 20+ anos em TI, Gerente Sênior de Cibersegurança, MVP há 12 anos, autor, palestrante e professor. Atua com pesquisa, formação de profissionais e estratégias inovadoras contra ameaças cibernéticas.",
+    "expertise": [
+      "Cybersecurity"
+    ],
     "social": {
       "linkedin": "https://br.linkedin.com/in/danieldonda",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/danieldonda",
+      "gitHub": "https://github.com/danieldonda",
+      "youtube": "https://www.youtube.com/@DanielDonda"
     }
   },
   {
