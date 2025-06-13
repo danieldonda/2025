@@ -747,15 +747,18 @@
   {
     "id": "644920e0-f93c-4556-80df-9ecc3efef48f",
     "name": "Rafael Martin Alves Ferreira",
-    "title": "Speaker",
-    "company": "",
+    "title": "Senior Azure DevOps Solution Engineer | Microsoft MVP & MCT | DevOps Institute Ambassadors | Alura Star Embaixador | Green Software Champion | Cloud & Platform Engineer | Host LowOpsCast",
+    "company": "Softensity Inc",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rafael Martin Alves Ferreira.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Sou Rafael, curioso e apaixonado por tecnologia desde cedo. Com 10+ anos de experiência, 18 certificações e formado em Ciência da Computação, atuo como Engenheiro DevOps especializado em Azure. MVP, MCT, focado em nuvem, DevOps, Terraform e Kubernetes.",
+    "expertise": [
+      "Azure DevOps",
+      "Cloud",
+      "Kubernetes"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/rafaelmaferreira/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/rafaelmaferreira"
     }
   },
   {
