@@ -204,56 +204,64 @@
     "id": "679ad4bf-2c76-4701-9cec-f8778674e272",
     "name": "Daniel Petrin",
     "title": "Speaker",
-    "company": "",
+    "company": "Mundo Power",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Petrin.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Iniciei na Engenharia Civil, atuei 15 anos em construtora e me tornei especialista em Power Apps e Power Automate. Fundador da Mundo Power, capacitei +900 alunos e criei +50 apps e 200 automações focadas em transformação digital corporativa.",
+    "expertise": [
+      "SharePoint",
+      "Power Apps",
+      "Power Automate",
+      "SharePoint"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/danielpetrinbertini/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/danielpetrinbertini/"
     }
   },
   {
     "id": "fd4ba439-0961-485f-9554-ea25fe6027dc",
     "name": "Daniel Ribeiro",
-    "title": "Speaker",
-    "company": "",
+    "title": "Azure Cloud Solution Architect at Microsoft - Global Partner Solutions (GPS)",
+    "company": "Microsoft",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Ribeiro.jpeg",
     "bio": "",
-    "expertise": [],
+    "expertise": [
+      "Microsoft Azure",
+      "Cloud"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/xdanielribeiro/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/daribei"
     }
   },
   {
     "id": "bed1cc7d-ccd1-4b59-9608-90a0d145e2a3",
     "name": "Danilo Nogueira",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP | Ajudando clientes e pessoas a serem mais produtivos com as ferramentas Microsoft",
+    "company": "Cloud Target",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Danilo Nogueira.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Graduado em Ciência da Computação pelo Mackenzie. Inglês e Italiano Fluentes. Forte espírito de liderança. Pró-atividade. Colaborando em algumas multinacionais utilizando diversas tecnologias. Ótimas experiências profissionais internacionais e disponibilidade para viagens. Foco em soluções Microsoft.",
+    "expertise": [
+      "Microsoft 365",
+      "SharePoint"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/danilonogueira/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/danilonogueira/"
     }
   },
   {
     "id": "2216af32-e6c1-4398-b8bd-70fe9ad36d2a",
     "name": "Diego Moreira Matos",
-    "title": "Speaker",
-    "company": "",
+    "title": "CTO | Microsoft Azure MVP / Cloud Architect / Technical Lead",
+    "company": "Cloud2Go",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Diego Moreira Matos.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "CTO da Cloud2Go (Grupo NGX), com 15+ anos de experiência em tecnologias Microsoft e nuvem (Azure, AWS, GCP). Microsoft MVP em Azure, MCT, especialista em migração, modernização e ambientes híbridos. Ativo na comunidade tech como palestrante e mentor.",
+    "expertise": [
+      "Cloud",
+      "Azure"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/digomatos/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/digomatos"
     }
   },
   {
@@ -749,113 +757,126 @@
   {
     "id": "e469f744-75eb-4861-8908-20369dd236f4",
     "name": "Raphael Rodrigo Ramos de Santana Santos",
-    "title": "Speaker",
-    "company": "",
+    "title": "O consultor Power Apps mais camarada da vizinhança | Transformação Digital | Power Apps | Power Automate| Power BI | Ferramentas Digitais | Digitalização de Processos Industriais | Automação Industrial",
+    "company": "CAMARO ELECTRIC AUTOMAÇÃO INDUSTRIAL",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Raphael Rodrigo Ramos de Santana Santos.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Sou o Consultor Power Apps mais Camarada da Vizinhança! Te ajudo a destravar aquele app enrolado com bom humor e proximidade. E se quiser aprender no seu tempo, tenho um curso na Hotmart ensinando a criar o Action Track com muita camaradagem!",
+    "expertise": [
+      "Power Apps",
+      "Power BI",
+      "Power Automate"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/raphael-camaro-powerplatform",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/raphael-camaro-powerplatform"
     }
   },
   {
     "id": "291924b2-ae8f-469a-ae4b-25f0ed136035",
     "name": "Rebecca Paola Cesar Frade",
-    "title": "Speaker",
-    "company": "",
+    "title": "Cybersecurity Specialist | Hackers Hive Advocate | DPO | IAM | GRC | DLP | Azure & Microsoft 365 security | Microsoft Certified | Speaker",
+    "company": "Axia Agro",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rebecca Paola Cesar Frade.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Especialista em cibersegurança, GRC e compliance, com experiência em ISO 27000, LGPD, NIST, CIS, Azure, GCP e AWS. Atuo com IAM, infraestrutura híbrida, políticas de segurança e otimização. Mentora, palestrante e apoiadora da comunidade técnica.",
+    "expertise": [
+      "Cybersecurity",
+      "Azure",
+      "Microsoft 365 Security"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/rebecca-paola-cesar-frade/"
     }
   },
   {
     "id": "2d4f5e64-9978-4ca5-8022-06818aa472aa",
     "name": "Renato José Ferreira Lira",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP | Power BI | Fabric | DAX | M",
+    "company": "Petrobras",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renato Jose Ferreira Lira.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Sou Renato Lira, especialista em Power BI, apaixonado por linguagens M e DAX. Já treinei centenas de pessoas e criei um método visual para ensinar DAX, descomplicando o que acontece “por trás dos panos” e ajudando alunos a entender e aplicar com clareza.",
+    "expertise": [
+      "Power BI",
+      "Microsoft Fabric"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/renatojflira/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/renatojflira/"
     }
   },
   {
     "id": "c14a7901-d0ca-456b-a99f-4ea11a60b33c",
     "name": "Ana Carolina Manzan",
-    "title": "Speaker",
-    "company": "",
+    "title": "Cloud Analyst @ Bosch | Microsoft MVP | MLSA | DevOps Engineer Expert | 5x Microsoft Certified",
+    "company": "Bosch",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Ana Carolina Manzan.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Cloud Analyst com 10+ anos de experiência em tecnologia, especializado em Azure, Azure DevOps, .NET (Framework e Core), C# e web. Possui certificações Microsoft (AZ-900, AZ-400, AZ-104, SC-900) e Mestrado em Inovação Tecnológica. Focado em Cloud, DevOps e Arquitetura.",
+    "expertise": [
+      "DevOps",
+      "Cloud",
+      "Azure"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/anamanzandev/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/devsnasnuvens"
     }
   },
   {
     "id": "6dad0bda-a90c-4b4b-8177-447f53a41cb1",
     "name": "Renicius Pagotto Fostaini",
-    "title": "Speaker",
-    "company": "",
+    "title": "Lead Consultant at Thoughtworks | Microsoft MVP | .NET | Azure | DevOps | Cloud Engineer | Software Architecture",
+    "company": "Thoughtworks",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renicius Pagotto Fostaini.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Com mais de 10 anos de experiência em tecnologia, sou especialista em Arquitetura de Sistemas Distribuídos e DevOps. Atuo com foco em excelência tecnológica, arquitetura evolutiva e performance, entregando soluções escaláveis com Azure e práticas ágeis.",
+    "expertise": [
+      ".Net",
+      "Azure",
+      "DevOps",
+      "Cloud"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/renicius-pagotto",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/reniciuspagotto"
     }
   },
   {
     "id": "fa1b2134-4191-469b-9488-d3fadae304c4",
     "name": "Roberto Fonseca",
-    "title": "Speaker",
-    "company": "",
+    "title": "Senior Sql Server Database Administrator at Pythian",
+    "company": "Pythian",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Roberto Fonseca.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Com mais de 15 anos na área de bancos de dados e 9 como especialista em SQL Server, lidero projetos com foco em arquitetura, performance, alta disponibilidade, recuperação de desastres e migrações. Especialista em SQL Server 2005–2016, incluindo clustering, replicação e tuning.",
+    "expertise": [
+      "Sql Server"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/rffonseca/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/rffonseca/"
     }
   },
   {
     "id": "6c3f272a-099a-4cd9-8ba3-cb90eb939076",
     "name": "Rodrigo Crespi",
-    "title": "Speaker",
-    "company": "",
+    "title": "CEO - CDB Data Solutions | Microsoft MVP Data Platform",
+    "company": "CDB Data Solutions",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rodrigo Crespi.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Rodrigo Crespi é MVP Data Platform, MCT e especialista em SQL Server desde a versão 6.5. Com diversas certificações, é sócio da CrespiDB e professor na Uniftec – Caxias do Sul, atuando com foco em administração de bancos de dados e plataformas de dados.",
+    "expertise": [
+      "Sql Server"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/rodrigocrespi",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/rodrigocrespi"
     }
   },
   {
     "id": "41c8666c-69a9-4217-8e2e-8da02c99fcd8",
     "name": "Rodrigo Dornel",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP Alumni, Microsoft MCT, Azure Data Engineer, Msc, Professor Universitário e Chief Operating Officer na CDB - Data Solutions",
+    "company": "CDB Data Solutions",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rodrigo Dornel.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Microsoft Data Platform MVP, Power BI Expert, SQL Server Expert and Microsoft Certified Trainer!",
+    "expertise": [
+      "Power BI",
+      "SQL Server"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/rodrigodornel/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/rodrigodornel/"
     }
   },
   {
