@@ -183,15 +183,21 @@
   {
     "id": "4291ffa0-ac15-40a0-86ca-9557c1da2767",
     "name": "Daniel Gomes de Jesus",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP | Tech Lead | .NET Developer | Specialist in C#, ASP.NET, & Cloud Solutions | Speaker",
+    "company": "XP Investimentos",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Daniel Gomes de Jesus.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Engineering Manager na XP, lidero projetos focados em eficiência e experiência do cliente. Ex-Tech Lead na Cielo, com forte atuação em automação, liderança técnica e soluções escaláveis. Engajado em inovação e comunidade tech.",
+    "expertise": [
+      ".Net",
+      "ASP.NET",
+      "Git",
+      "Docker"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/djesusnet",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/djesusnet",
+      "gitHub": "https://github.com/djesusnet",
+      "youtube": "https://www.youtube.com/@DjesusNet"
     }
   },
   {
