@@ -267,43 +267,47 @@
   {
     "id": "f4e840ea-15f2-4532-ad30-7ef3f19b3ec6",
     "name": "Eduardo Pires",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft Regional Director | MVP | Owner @ desenvolvedor.io",
+    "company": "desenvolvedor.io",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Eduardo Pires.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Microsoft Regional Director. 12x Microsoft MVP (2014 - 2025)Arquiteto e Desenvolvedor de Software. 24 anos de experiência em desenvolvimento de software",
+    "expertise": [
+      ".Net"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/pireseduardo/",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/eduardopiresbr",
+      "gitHub": "https://github.com/EduardoPires"
     }
   },
   {
     "id": "635752ed-6e95-4335-8f70-f99c51c0f8f3",
     "name": "Elton Bordim",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP | MCT | Azure Hybrid & Migration | Comitê de Segurança APDADOS | CEO & Founder at CloudData Tech & DevOps",
+    "company": "CloudData Tech & DevOps",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Elton Bordim.jpeg",
     "bio": "",
-    "expertise": [],
+    "expertise": [
+      "Cloud",
+      "Azure"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/elton-bordim/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/elton-bordim/"
     }
   },
   {
     "id": "3e6fe57d-d572-4ae5-a9cd-1f3778af527a",
     "name": "Emmanuel G. Brandão",
-    "title": "Speaker",
-    "company": "",
+    "title": "DevOps | SRE | Observability | FinOps",
+    "company": "Accenture",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Emmanuel G. Brandao.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Há mais de 10 anos atuo com DevOps e Agilidade, apoiando times na automação, monitoramento e otimização em nuvem para reduzir toil e downtime. Com background em .NET, colaboro com devs em soluções eficientes e compartilho conhecimento em vídeos e palestras.",
+    "expertise": [
+      "DevOps", "SRE", "Observability", "FinOps"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/egomesbrandao",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/egomesbrandao"
     }
   },
   {
