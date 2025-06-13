@@ -70,71 +70,79 @@
   {
     "id": "ae26b24c-6eae-4a00-9e33-1b9752238f2f",
     "name": "Bruno Brito",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Microsoft MVP | Docker Captain",
+    "company": "Avera",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Brito.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Senior software engineer com 15 anos de experiência, apaixonado por código, open source e segurança. Atua escrevendo, palestrando e contribuindo em projetos abertos. Acredita que quanto mais aprende, mais percebe o quanto ainda há para aprender.",
+    "expertise": [
+      "Docker",
+      ".Net",
+      "Cloud",
+      "Azure",
+      "Kubernetes"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/brunobritodev/",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/brunobritodev",
+      "gitHub": "https://github.com/brunobritodev"
     }
   },
   {
     "id": "638c08d5-aecc-487f-87a6-83b4aea6fa21",
     "name": "Bruno Leires",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "MVP Microsoft 365 | Microsoft 365 Architect | Enterprise Administrator Expert | Teams Administrator Associate | Messaging Associate | Identity and Access Administrator Associate",
+    "company": "Leires",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Bruno Leires.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com +14 anos de experiência em soluções complexas para grandes empresas nos setores bancário, telecom, governo, logística e mais. Especialista em tecnologias Microsoft, com foco em identidade, e-mail e comunicação para ambientes com até 140 mil usuários. Atua com melhoria contínua e foco no cliente.",
+    "expertise": [
+      "Microsoft 365"
+    ],
     "social": {
-      "linkedin": "https://br.linkedin.com/in/oconsultorsenior",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://br.linkedin.com/in/oconsultorsenior"
     }
   },
   {
     "id": "6dffe011-3508-422a-ba32-ee77b1841ff1",
     "name": "Carlos André Rodrigues Lauff",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "CTO na Infob Cloud | MCASAE | MCSE | MCT | MTAC",
+    "company": "Infob Cloud",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Andre Rodrigues Lauff.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Arquiteto de soluções com foco em inovação, governança e excelência operacional. Experiência em gestão de riscos de TI, liderança técnica, planejamento de recursos e forte atuação junto a equipes de negócio e tecnologia.",
+    "expertise": [
+      "Cloud"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/carloslauff/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/carloslauff/"
     }
   },
   {
     "id": "8254ca63-ff1e-431e-ae78-4f1c20994338",
     "name": "Carlos Citrangulo",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Diretor de Novos Negócios & Senior Partner",
+    "company": "Ímpar",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Citrangulo.jpeg",
     "bio": "",
-    "expertise": [],
+    "expertise": [
+      "Microsoft 365"
+    ],
     "social": {
-      "linkedin": "http://linkedin.com/in/carloscitrangulo",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "http://linkedin.com/in/carloscitrangulo"
     }
   },
   {
     "id": "f51511ae-b178-472d-a671-0d596a742fcc",
     "name": "Cláudio Filipe Lima Rapôso",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Systems Architect Project Leader ",
+    "company": "NTT DATA Europe & Latam",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Claudio Filipe Lima Raposo.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Arquiteto de Sistemas na NTT DATA, utilizando TypeScript, Java e Python para criar soluções escaláveis. Professor de programação e algoritmos, unindo tecnologia e educação. Mestrando em Administração com foco em Marketing Digital e sistemas aplicados.",
+    "expertise": [
+      "TypeScript",
+      "Java",
+      "Python"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/cfraposo/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/cfraposo/"
     }
   },
   {
@@ -840,15 +848,16 @@
   {
     "id": "aa562edf-3633-46f8-8ba9-50ee60e8d1a9",
     "name": "Rosani Coutinho",
-    "title": "Speaker",
-    "company": "Unknown",
+    "title": "Cloud Sales Strategist",
+    "company": "Unikeer",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Rosani Coutinho.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com 20+ anos em tecnologia e liderança no ecossistema Microsoft. Fundadora da Unikeer, plataforma que integra automação, finops e APIs ao Partner Center para transformar operações de parceiros em resultados concretos.",
+    "expertise": [
+      "Cloud",
+      "Azure"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/rosanicoutinho/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/rosanicoutinho/"
     }
   },
   {
@@ -959,8 +968,7 @@
     ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/angelobelchior/",
-      "twitter": "",
-      "gitHub": ""
+      "youtube": "https://www.youtube.com/@angelobelchior"
     }
   },
   {
