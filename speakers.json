@@ -102,7 +102,7 @@
     "name": "Carlos André Rodrigues Lauff",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos André Rodrigues Lauff.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Carlos Andre Rodrigues Lauff.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -130,7 +130,7 @@
     "name": "Cláudio Filipe Lima Rapôso",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Cláudio Filipe Lima Rapôso.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Claudio Filipe Lima Raposo.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -270,7 +270,7 @@
     "name": "Emmanuel G. Brandão",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Emmanuel G. Brandão.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Emmanuel G. Brandao.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -284,7 +284,7 @@
     "name": "Erick Maquiné dos Santos",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Maquiné dos Santos.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Maquine dos Santos.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -351,7 +351,7 @@
   },
   {
     "id": "9a6f6a80-7593-49b6-9566-6ca8b1712488",
-    "name": "FABIO MENEZES SANTOS",
+    "name": "Fabio Menezes Santos",
     "title": "Speaker",
     "company": "Unknown",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/FABIO MENEZES SANTOS.jpeg",
@@ -396,7 +396,7 @@
     "name": "Francisco José Ferreira",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Francisco José Ferreira.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Francisco Jose Ferreira.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -410,7 +410,7 @@
     "name": "Fábio Cotrim",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fábio Cotrim.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio Cotrim.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -424,7 +424,7 @@
     "name": "Fábio de Carvalho Gatti",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fábio de Carvalho Gatti.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio de Carvalho Gatti.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -592,7 +592,7 @@
     "name": "Juliano Custódio",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliano Custódio.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliano Custodio.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -606,7 +606,7 @@
     "name": "Leonardo Alves Zanré",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Alves Zanré.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Alves Zanre.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -658,25 +658,11 @@
     }
   },
   {
-    "id": "089b4f26-bb9e-4feb-a331-12244efe8bd7",
-    "name": "Marcio Rogério Nizzola",
-    "title": "Speaker",
-    "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcio Rogério Nizzola.jpeg",
-    "bio": "",
-    "expertise": [],
-    "social": {
-      "linkedIn": "https://www.linkedin.com/in/nizzola/",
-      "twitter": "",
-      "gitHub": ""
-    }
-  },
-  {
     "id": "d6179986-76eb-430d-985b-6c168ea016f5",
     "name": "Marco Aurélio Gardini Lagoa",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Aurélio Gardini Lagoa.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Aurelio Gardini Lagoa.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -690,7 +676,7 @@
     "name": "Márcio Rogério Nizzola",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Márcio Rogério Nizzola.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcio Rogerio Nizzola.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -718,7 +704,7 @@
     "name": "Pedro Ignácio",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Pedro Ignácio.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Pedro Ignacio.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -774,7 +760,7 @@
     "name": "Renato José Ferreira Lira",
     "title": "Speaker",
     "company": "Unknown",
-    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renato José Ferreira Lira.jpeg",
+    "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Renato Jose Ferreira Lira.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
@@ -869,7 +855,7 @@
   },
   {
     "id": "f1b19fc5-71d6-4e93-807a-baa73de036ab",
-    "name": "SANDRO JORGE DE OLIVEIRA",
+    "name": "Sandro Jorge de Oliveira",
     "title": "Speaker",
     "company": "Unknown",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/SANDRO JORGE DE OLIVEIRA.jpeg",
