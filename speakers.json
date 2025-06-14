@@ -313,57 +313,60 @@
   {
     "id": "7fe38632-f5aa-439e-b745-5011fdd8c535",
     "name": "Erick Maquiné dos Santos",
-    "title": "Speaker",
-    "company": "",
+    "title": "Diretor MSTI Tecnologia e Inovação",
+    "company": "MSTI Tecnologia e Inovação",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Maquine dos Santos.jpeg",
-    "bio": "",
-    "expertise": [],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/erick-maquine/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/erick-maquine/"
     }
   },
   {
     "id": "9b0651b0-14ad-4c89-91f2-9e40d1cd2404",
     "name": "Erick Wendel",
-    "title": "Speaker",
-    "company": "",
+    "title": "Linkedin Top Voice | Professional JS Educator | Google Dev Expert | Microsoft MVP | GitHub Star Alumni | Node.js core team member",
+    "company": "EW Academy",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Erick Wendel.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Erick Wendel é Microsoft MVP, especialista em Node.js e aplicações JavaScript. Atua como arquiteto de software independente, focado em Serverless, containers e cloud híbrida. Palestrante em grandes conferências e líder voluntário de comunidades como NodeBR e Nerdzão.",
+    "expertise": [
+      "Node.js",
+      "Serverless"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/erickwendel/",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/erickwendel_",
+      "gitHub": "https://github.com/ErickWendel"
     }
   },
   {
     "id": "310a1440-7f09-4d7f-b71d-84c0edac81cb",
     "name": "Everaldo Oliveira da Silva",
-    "title": "Speaker",
-    "company": "",
+    "title": "Arquiteto Cloud | Microsoft Azure",
+    "company": "Minsait",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Everaldo Oliveira da Silva.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Sou formado em Redes de Computadores pela Faculdade de São Paulo e tenho 25 anos de experiência em Infraestrutura de TI, especialista em cloud computing com certificação Microsoft Azure e AWS, sólidos conhecimentos em ambientes de computação corporativos e migrações de ambientes.",
+    "expertise": [
+      "Azure",
+      "Cloud"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/evoliv/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/evoliv/"
     }
   },
   {
     "id": "9b8d4393-d5b2-4296-9c88-3c1dfdc817cd",
     "name": "Fabiano Neves Amorim",
-    "title": "Speaker",
-    "company": "",
+    "title": "Principal Consultant at Pythian",
+    "company": "Pythian",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabiano Neves Amorim.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Fabiano Amorim é Microsoft MVP em Data Platform desde 2011, com mais de 20 anos de experiência. Reconhecido mundialmente por sua expertise em performance tuning e por palestrar em grandes conferências, resolve problemas complexos que poucos conseguem solucionar.",
+    "expertise": [
+      "Performance Tuning",
+      "Database Optimization",
+      "Data Platform"
+    ],
     "social": {
       "linkedin": "https://br.linkedin.com/in/fabianoamorim",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/mcflyamorim"
     }
   },
   {
