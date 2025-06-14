@@ -495,43 +495,51 @@
   {
     "id": "0eac2a3b-bd7f-4023-ba3f-85edb2052e3b",
     "name": "Guilherme Maia",
-    "title": "Speaker",
+    "title": "Cloud Architect, Microsoft MVP, Trainer",
     "company": "",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Guilherme Maia.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Cloud Specialist, Consultant e Arquiteto focado em Apps & Infra para médias e grandes empresas. Microsoft Azure MVP, MTAC e MCT. Capacita profissionais de TI a se tornarem especialistas em Azure via treinamentos online, workshops e mentoria.",
+    "expertise": [
+      "Cloud",
+      "Azure"
+    ],
     "social": {
-      "linkedin": "https://linkedin.com/in/guilhermemaia",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://linkedin.com/in/guilhermemaia"
     }
   },
   {
     "id": "b8013ee2-ffe5-4399-b441-692b19914651",
     "name": "Gustavo Bellini Bigardi",
-    "title": "Speaker",
-    "company": "",
+    "title": "Chief Technology Officer @ Clarus IT | Microsoft MVP",
+    "company": "Clarus IT",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Gustavo Bellini Bigardi.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Desenvolvedor com 18+ anos focado em Microsoft (.NET, Azure), NodeJS e React. Experiência em sistemas escaláveis. Microsoft MVP Developer Technologies, coordena a comunidade JunDevelopers e produz conteúdo técnico sobre .NET, Azure, Blazor e melhores práticas.",
+    "expertise": [
+      ".Nett",
+      "Azure Cloud",
+      "NodeJS",
+      "Software Scalability"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/gbbigardi/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/gustavobigardi"
     }
   },
   {
     "id": "d17753bd-e26d-4467-9228-33b78cc12b58",
     "name": "Henver Rodrigo Gomes Soares",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP | MCT | Consultor Sênior Microsoft Modern Work & Security",
+    "company": "Beyondsoft Brasil",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Henver Rodrigo Gomes Soares.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Microsoft MVP e consultor sênior em Segurança Cibernética e Modern Workplace, especialista em Microsoft 365, Zero Trust e gestão de identidade. Com 10+ anos de experiência, atua em migração, automação e proteção de ativos digitais para otimizar segurança e produtividade.",
+    "expertise": [
+      "Microsoft 365",
+      "Zero Trust",
+      "Cybersecurity",
+      "Modern Workplace"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/henversoares",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/henversoares"
     }
   },
   {
