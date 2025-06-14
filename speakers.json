@@ -537,15 +537,18 @@
   {
     "id": "dcfedce3-3657-46a5-8a23-38db11e4e4f4",
     "name": "Hugo Venturini",
-    "title": "Speaker",
-    "company": "",
+    "title": "Palestrante, Consultor e Instrutor | MVP Data Platform | MOS Excel",
+    "company": "Venturini Treinamentos e Soluções Ltda",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Hugo Venturini.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Sócio da Venturini Treinamentos, ministra cursos presenciais e online em Microsoft 365, Excel e Power BI. Formado em Administração, com especialização e certificação Office Specialist. Microsoft MVP Data Platform, desenvolve soluções de analytics integradas a ERPs diversos.",
+    "expertise": [
+      "Microsoft 365",
+      "Excel Analytics",
+      "Power BI",
+      "ERP Integration"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/hugoventurini-excel-and-powerbi/"
     }
   },
   {
