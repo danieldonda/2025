@@ -593,43 +593,49 @@
   {
     "id": "ebce12e5-18ba-485e-9beb-32cfbaaed4ed",
     "name": "Jorge Maia",
-    "title": "Speaker",
+    "title": "Especialista em Internet das Coisas, Palestrante, Professor, Premiado pela Microsoft como MVP em Azure, Mestre em Sistemas Mecatrônicos",
     "company": "",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jorge Maia.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Consultor e mentor com 20+ anos em .NET, foco em produtividade, qualidade e agilidade. Microsoft Certified Trainer, atua com C#, IoT, sistemas embarcados e financeiros. Palestrante, podcaster e fundador do CrazyTechGuys. Mestrando em Sistemas Mecatrônicos.",
+    "expertise": [
+      ".Net",
+      "Sistemas Embarcados",
+      "Internet das Coisas"
+    ],
     "social": {
-      "linkedin": "Https://www.linkedin.com/in/jorgeasmaia",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/jorgeasmaia",
+      "twitter": "https://x.com/jorgemaia",
+      "gitHub": "https://github.com/jorgemaia"
     }
   },
   {
     "id": "6aefee0d-4940-4e6b-bafb-bdec3a1dec98",
     "name": "Juliana Maria Lopes",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP | Top Data Architecture Voice | Data Architect | Big Data Architect | BI Specialist | Microsoft MCT | 2x Databricks Certified | 8x Azure Certified | 1x Oracle Certified",
+    "company": "GFT Technologies Brasil",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliana Maria Lopes.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com 20+ anos em TI, especialista em Big Data, BI e Azure. Atuou em grandes empresas e liderou times em projetos de dados. Instrutora certificada Microsoft, mentora ativa e autora de artigos sobre ingestão de dados e arquitetura em nuvem.",
+    "expertise": [
+      "Big Data",
+      "Azure Cloud",
+      "Arquitetura de Dados",
+      "Engenharia de Dados"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/julianamarialopes/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/julianamarialopes"
     }
   },
   {
     "id": "d4b66773-b9a0-4220-b21c-c076e94e05ee",
     "name": "Juliano Custódio",
-    "title": "Speaker",
-    "company": "",
+    "title": "7x Microsoft MVP | Green Software Champion",
+    "company": "Bayer",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Juliano Custodio.jpeg",
     "bio": "",
     "expertise": [],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/julianocustodio",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/julianocustodio"
     }
   },
   {
