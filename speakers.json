@@ -677,71 +677,90 @@
   {
     "id": "de03d6cf-3b8e-47f9-9d6b-926e80f39f12",
     "name": "Lucas Cariello Massena",
-    "title": "Speaker",
-    "company": "",
+    "title": "Strategic Enterprise Cloud Solutions Architect at Optimus Information Inc. specialist in Cloud Modernization",
+    "company": "Optimus Information Inc",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Lucas Cariello Massena.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Enterprise Cloud Solutions Architect com foco em pré-vendas, adoção, modernização e migração para nuvem. Especialista em alinhar tecnologia à estratégia de negócios, criando soluções escaláveis, inovadoras e de alto impacto para transformação digital.",
+    "expertise": [
+      "Cloud Architecture",
+      "Digital Transformation",
+      "Cloud Migration",
+      "Solution Modernization"
+    ],
     "social": {
       "linkedin": "https://linkedin.com/in/lcmassena",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/lcmassena",
+      "gitHub": "https://github.com/lcmassena"
     }
   },
   {
     "id": "d6179986-76eb-430d-985b-6c168ea016f5",
     "name": "Marco Aurélio Gardini Lagoa",
-    "title": "Speaker",
-    "company": "",
+    "title": "CEO na Witec IT Solutions & Cofundador na BUDTI",
+    "company": "Witec IT Solutions",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marco Aurelio Gardini Lagoa.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Velejador que se tornou Arquiteto de Soluções e cofundador da WITEC IT Solutions. Sócio em startups, lidera a Confraria do Empreendedor e é CEO do Congresso de TI Online. Atua com eventos como o EVOLUTI e é mentor voluntário na Atitude Infinita.",
+    "expertise": [
+      "Arquitetura de Soluções",
+      "Empreendedorismo Digital",
+      "Mentoria Profissional"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/marcolagoa",
-      "twitter": "",
-      "gitHub": ""
+      "twitter": "https://x.com/marcolagoa",
+      "gitHub": "https://github.com/marcolagoa"
     }
   },
   {
     "id": "de166d04-ce08-4292-a0e5-82afc6470c85",
     "name": "Márcio Rogério Nizzola",
-    "title": "Speaker",
-    "company": "",
+    "title": "Arquiteto de Sistemas na CI&T | Microsoft MVP | .NET | Angular | Python | PHP | SQL | Oracle | Azure | Docker | RabbitMq",
+    "company": "CI&T",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Marcio Rogerio Nizzola.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Arquiteto de Software na CI\&T com 30+ anos de experiência. MVP em Developer Technologies. Especialista em .NET, Azure e integrações no setor de turismo. Professor no Centro Paula Souza e cofundador da Itu Developers. Apaixonado por ensinar e inovar.",
+    "expertise": [
+      ".Net",
+      "Oracle",
+      "Azure",
+      "Docker"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/nizzola/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/NIZZOLA"
     }
   },
   {
     "id": "f6b9c669-4550-4322-822a-b911f1f78008",
     "name": "Nathan Pinotti",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft 365 | Modern Workplace Security | Microsoft Endpoint Manager | Microsoft Defender | Compliance Microsoft | Azure Information Protection | Data Loss Prevention",
+    "company": "Itaú Unibanco",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Nathan Pinotti.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Com conhecimentos em tecnologia e gestão, atuo alinhando ambos para otimizar entregas com foco em valor ao negócio. Especialista em tecnologias Microsoft, como Modern Workplace Security, MEM, Defender, Compliance, AIP, DLP e Azure.",
+    "expertise": [
+      "Microsoft 365",
+      "Microsoft Defender",
+      "Modern Workplace Security"
+    ],
     "social": {
-      "linkedin": "linkedin.com/in/nathanpinotti",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/nathanpinotti/",
+      "gitHub": "https://github.com/nathanpinotti"
     }
   },
   {
     "id": "719d44a2-b9d9-41f1-8e24-6f0c46c5f7c0",
     "name": "Pedro Ignácio",
-    "title": "Speaker",
-    "company": "",
+    "title": "Senior DevOps Engineer at Itaú Unibanco | Docker Captain | Cloud Security Microsoft MVP | Kubernetes | CK{A,AD} | Security | DevOps | Observability",
+    "company": "Itaú Unibanco",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Pedro Ignacio.jpeg",
     "bio": "",
-    "expertise": [],
+    "expertise": [
+      "Docker",
+      "DevOps",
+      "Cloud Security",
+      "Kubernetes"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/pedroirufo",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/pedroirufo"
     }
   },
   {
