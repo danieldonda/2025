@@ -551,43 +551,52 @@
   {
     "id": "5c29ecb9-299f-49c9-86f5-bc20925c36b0",
     "name": "Igor Humberto Monte Marques de Lima",
-    "title": "Speaker",
-    "company": "",
+    "title": "Azure Solutions Architect | Microsoft 365 Administrator | Coordenador de TI | Datacenter Services | MXM Sistemas",
+    "company": "MXM Sistemas",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Igor Humberto Monte Marques de Lima.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com 25+ anos em Treinamento e Consultoria em TI, certificado MCT, MCSE, Azure e Microsoft 365 Expert. MVP Alumni e membro MTAC. Coordena projetos complexos na MXM Sistemas com foco em soluções Microsoft, segurança, nuvem e virtualização.",
+    "expertise": [
+      "Microsoft Technologies",
+      "Azure",
+      "Security"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/igorhumberto/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/igorhumberto/"
     }
   },
   {
     "id": "33042546-dc92-4af8-abce-7383494d7a0c",
     "name": "Jefferson Castilho",
-    "title": "Speaker",
-    "company": "",
+    "title": "Especialista de Infraestrutura | Especialista SRE | Especialista Cloud | Arquiteto Cloud | Especialista de TI | DevOps",
+    "company": "PagueVeloz",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Jefferson Castilho.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com 18 anos em tecnologia, focado em SRE e Cloud há 8. Experiência com Azure, AWS, GCP, IaC, CI/CD, virtualização e segurança (RedTeam/BlueTeam). MBA em Tech para Negócios e líder de equipe nas áreas de SRE e Arquitetura.",
+    "expertise": [
+      "Cloud",
+      "Infrastructure as Code",
+      "Devops",
+      "SRE"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/jeffersoncastilho/",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/jeffersoncastilho"
     }
   },
   {
     "id": "b98f4a14-9500-4d79-afc8-1c2a816d4dda",
     "name": "Joel de Oliveira junior",
-    "title": "Speaker",
-    "company": "",
+    "title": "Co-Founder Luckie Tech",
+    "company": "Luckie Tech",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Joel de Oliveira junior.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Executivo com MBA pela FGV e Prominp/Petrobras, pós pela ESPM e experiência internacional na Suécia (Ericsson). Atuação em vendas B2B na América Latina, com foco em tecnologia, aviação, telecom, big data e IA. Especialista em vendas de alto nível.",
+    "expertise": [
+      "International Sales",
+      "High Technology Sales",
+      "Aviation Services",
+      "B2B Sales"
+    ],
     "social": {
-      "linkedin": "linkedin.com/in/joeljunior",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/joeljunior"
     }
   },
   {
