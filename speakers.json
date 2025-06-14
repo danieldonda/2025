@@ -635,43 +635,53 @@
   {
     "id": "4e9d3383-21ef-42da-8a81-1836aa124025",
     "name": "Leonardo Alves Zanré",
-    "title": "Speaker",
-    "company": "",
+    "title": "Especialista Microsoft Power Platform | Power Apps | Power Automate | SharePoint | Power BI | Power Pages | Low-Code | Automação | Dynamics 365 | RPA | Canvas e Model-Driven Apps",
+    "company": "Instrutor na Udemy",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Alves Zanre.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Especialista em Microsoft Power Platform com foco em Power Apps (Canvas e Model-Driven), Power Automate, SharePoint, Power BI, Power Pages, RPA e Dynamics 365. Atuo com soluções low-code e automação para aumentar eficiência e agilidade nos negócios.",
+    "expertise": [
+      "Power Platform",
+      "Low-Code Solutions",
+      "Business Automation",
+      "Dynamics 365"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/leonardozanre",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/leonardozanre"
     }
   },
   {
     "id": "749fc151-e432-460d-bd8b-5b58e104fa2d",
     "name": "Leonardo Camargo Rossato",
-    "title": "Speaker",
-    "company": "",
+    "title": "President ICTQ Foton | Physicist | Quantum Computing and Econophysics Specialist | Developer of Educational Apps and Interactive Dashboard Tools",
+    "company": "ICTQ Foton",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Camargo Rossato.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Físico e matemático especializado em computação quântica e análise de dados. Cria apps educacionais, ensina computação quântica e desenvolve ferramentas visuais como o ScatterGraph para simplificar conceitos usando ciência de dados e IA.",
+    "expertise": [
+      "Quantum Computing",
+      "Data Analysis",
+      "Educational Apps",
+      "Graph Theory"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/leonardocamargorossato",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/leonardocamargorossato"
     }
   },
   {
     "id": "c7aa6d6f-4962-4693-a815-c7c332485fdf",
     "name": "Leonardo Ramos Russo",
-    "title": "Speaker",
-    "company": "",
+    "title": "Power Platform | Driving Innovation and Empowering Business Solutions",
+    "company": "Genaiera",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Leonardo Ramos Russo.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Desenvolvedor Power Apps com foco em processos de negócios, experiência em Power Automate, Dataverse e SharePoint. Crio apps personalizados com design intuitivo e visual atrativo, unindo estética e funcionalidade para otimizar processos e gerar valor.",
+    "expertise": [
+      "Power Apps",
+      "Power Automate",
+      "User Experience",
+      "Processos de Negócio"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/leonardorrusso/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/leonardorrusso/"
     }
   },
   {
