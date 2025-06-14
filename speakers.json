@@ -372,127 +372,148 @@
   {
     "id": "364563a6-86ab-4ee0-95d6-58b02e91d52a",
     "name": "Fabio Baldini",
-    "title": "Speaker",
-    "company": "",
+    "title": "Presidente da ACITEC | Professor | MTAC | Palestrante | CEO",
+    "company": "ACITEC",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio Baldini.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Experiência Profissional nas áreas de Gestão de Pessoas, Metalúrgica, Alimentos, Consultoria, Projetos, Processos, Orçamentos, Operações Portuárias, Análises Financeiras, Planejamento, PPCP, Obras Civis e Treinamentos.",
+    "expertise": [
+      "Microsoft Excel",
+      "VBA"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/baldinifabio/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/baldinifabio/"
     }
   },
   {
     "id": "9a6f6a80-7593-49b6-9566-6ca8b1712488",
     "name": "Fabio Menezes Santos",
-    "title": "Speaker",
-    "company": "",
+    "title": "Coordenador de Projetos Especiais @ PETROBRAS | Data Governance | Microsoft MVP & Certified Trainer | Business Intelligence Expert",
+    "company": "Petrobras",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/FABIO MENEZES SANTOS.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Consultor na Petrobras com 4+ anos em soluções digitais e análise de dados. Microsoft MVP em Data Platform, MCT e instrutor desde 2019. Certificado em Azure e BI, atua otimizando processos e apoiando decisões. Bacharel em Design, MBA em Big Data.",
+    "expertise": [
+      "Data Analysis",
+      "Business Intelligence",
+      "Data Visualization",
+      "Process Optimization"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/fabioms/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/fabioms/"
     }
   },
   {
     "id": "3cf322e0-3922-49c4-84a0-127a3105094f",
     "name": "Felipe Kenji Chikuji",
-    "title": "Speaker",
-    "company": "",
+    "title": "Analista de Dados | Cientista de Dados | Especialista em Power BI | Palestrante | Microsoft MVP IA | Microsoft MCT",
+    "company": "Real Impact Brasil",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Felipe Kenji Chikuji.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Especialista em Dados e IA com 5+ anos em soluções Microsoft. Microsoft Certified Trainer e MVP em Azure AI. Instrutor oficial de certificações DP-900, AI-900, AI-102, DP-600. Lidera projetos de dados e inovação na Real Impact Brasil e atua como mentor e palestrante.",
+    "expertise": [
+      "Dados e Inteligência",
+      "Power BI",
+      "Azure AI",
+      "Arquitetura de Dados"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/felipe-kenji-chikuji/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/felipe-kenji-chikuji/"
     }
   },
   {
     "id": "8e1f6030-586a-4ad5-afe3-833498516db6",
     "name": "Felipe Pimentel Augusto",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP | Technical Architecture Manager @ Avanade | MIT Arquitetura de Sistemas @ Infnet",
+    "company": "Avanade",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Felipe Pimentel Augusto.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Na Avanade, lideramos projetos aplicando Design Patterns, focados em performance, manutenção, resiliência, observabilidade e testes. Combinamos desenvolvimento, arquitetura e DevOps para inovar em cloud, promovendo colaboração e excelência em um cenário tecnológico dinâmico.",
+    "expertise": [
+      "Design Patterns",
+      "Observability",
+      "DevOps",
+      "Cloud"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/felipementel",
-      "twitter": "",
-      "gitHub": ""
+      "gitHub": "https://github.com/felipementel"
     }
   },
   {
     "id": "b607b1fe-3415-4244-be36-2c06f79b0bb1",
     "name": "Francisco José Ferreira",
-    "title": "Speaker",
-    "company": "",
+    "title": "Microsoft MVP Azure Hybrid and Migration | Cloud Architect | Project Coordinator in BNP | Cloud Engineer in E-Seth | Instructor MCT in Ka Solution | Network Administrator in Miranda | Speaker | MTAC | AzureExpert Founder",
+    "company": "BNP - Soluções em TI",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Francisco Jose Ferreira.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Coordenador de Projetos na BNP com 30+ anos em TI, especialista em redes e inovação em cloud. Microsoft MVP Azure Hybrid e Migration 2024. Experiência sólida em infraestrutura, servidores Linux e Windows, liderando projetos de soluções Microsoft e arquiteturas híbridas.",
+    "expertise": [
+      "Network Administration",
+      "Cloud Innovation",
+      "Hybrid Cloud Architectures",
+      "Server Administration"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/franciscoferreiramvp/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/franciscoferreiramvp/"
     }
   },
   {
     "id": "c227e4b5-07e1-4a5c-8e21-660a399e945b",
     "name": "Fábio Cotrim",
-    "title": "Speaker",
-    "company": "",
+    "title": "Database System Expert - NTT DATA",
+    "company": "NTT DATA",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio Cotrim.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Especialista em TI com ampla experiência em bancos Microsoft SQL Server (2005-2019), alta disponibilidade com AlwaysOn, tunning e segurança. Atuou em projetos diversos, gestão de contratos de outsourcing e suporte a áreas como Marketing, Finanças, Logística e Manufatura.",
+    "expertise": [
+      "Microsoft SQL Server",
+      "Alta Disponibilidade",
+      "Tunning e Segurança"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/fcotrim/",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/fcotrim/"
     }
   },
   {
     "id": "dba46de4-9bf2-4652-a2c3-e7707dbd5667",
     "name": "Fábio de Carvalho Gatti",
-    "title": "Speaker",
-    "company": "",
+    "title": "Diretor Técnico | MCT Microsoft 365 & Power Platform",
+    "company": "GoEasyIT",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Fabio de Carvalho Gatti.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Graduado em Administração, consultor e instrutor em Microsoft 365 e Power Platform desde 2014. Certificado MS-Office Specialist Expert, Microsoft Certified Trainer, associado MTAC e Black Belt Lean Six Sigma em processos.",
+    "expertise": [
+      "Microsoft 365",
+      "Power Platform",
+      "Lean Six Sigma"
+    ],
     "social": {
       "linkedin": "https://www.linkedin.com/in/fabiocgatti/",
-      "twitter": "",
-      "gitHub": ""
+      "youtube": "https://www.youtube.com/@PulodoGatti"
     }
   },
   {
     "id": "46b6a055-1280-4624-8d1d-179688b28d0f",
     "name": "Glaucio Daniel Souza Santos",
-    "title": "Speaker",
-    "company": "",
+    "title": "CEO Hcode | Calian | FIAP | AI Engineer | 4x Microsoft MVP",
+    "company": "Hcode",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Glaucio Daniel Souza Santos.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Sou Glaucio Daniel, CEO da Hcode, empresa de educação e tecnologia com mais de 165 mil alunos em 92 países. Instrutor na Udemy, especialista em IA Generativa e tecnologias como JavaScript, Node.js e C#. 4x Microsoft MVP",
+    "expertise": [
+      "Inteligência Artificial Generativa"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/glauciodaniel",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/glauciodaniel"
     }
   },
   {
     "id": "e08efb06-3cfb-48d6-b920-ce20d41ea678",
     "name": "Glauter Jannuzzi",
-    "title": "Speaker",
-    "company": "",
+    "title": "Master in connecting and inspiring people | Mentor | Speaker | People Manager | Master Professor | Business Manager | Ex Microsoft | NPO founder | Board Member",
+    "company": "Atitude Infinita",
     "image": "https://raw.githubusercontent.com/MVPConf/2025/refs/heads/main/speakers/Glauter Jannuzzi.jpeg",
-    "bio": "",
-    "expertise": [],
+    "bio": "Profissional com 26 anos em empresas globais de tecnologia, atuando em liderança e inovação. Especialista em transformação digital, cloud, IA, ciência de dados e sucesso do cliente. Autor, empreendedor e experiente em diversos setores e perfis de atuação.",
+    "expertise": [
+      "Digital Transformation",
+      "AI",
+      "Cloud"
+    ],
     "social": {
-      "linkedin": "https://www.linkedin.com/in/jannuzzi",
-      "twitter": "",
-      "gitHub": ""
+      "linkedin": "https://www.linkedin.com/in/jannuzzi"
     }
   },
   {
